@@ -1,0 +1,23 @@
+<div class="container">
+  $for(posts)$
+    <div class="row">
+    <div class="col-md-12">
+    <h2 class="center"><a href="$url$">$title$</a></h2> 
+    <div class="info">
+      $if(author)$ 
+        <p class="subs">by $author$
+	</p>
+      $endif$
+      $if(date)$ 
+        <p class="subs">on $date$
+	</p>
+      $endif$
+    </div>
+          $if(teaser)$ $teaser$ $endif$
+	  <p><a href="$url$">Read more.</a></p>
+    </div>
+    </div>
+    <hr>
+
+  $endfor$
+</div>

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cygstart powershell "chcp 65001; ./site build"
+
+sleep 5
+
+cp -TRv _site/ ../philosophocle/
+gitup "$1"
+cd ../philosophocle
+gitup2 "$1" gh-pages
