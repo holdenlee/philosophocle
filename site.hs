@@ -21,11 +21,6 @@ import TableOfContents
 import CustomTags
 import PrevNextPost
 
-import           Text.Blaze.Html                 (toHtml, toValue, (!))
-import           Text.Blaze.Html.Renderer.String (renderHtml)
-import qualified Text.Blaze.Html5                as H
-import qualified Text.Blaze.Html5.Attributes     as A
-
 siteURL :: String
 siteURL = "http://holdenlee.github.io/philosophocle"
 
@@ -74,10 +69,8 @@ main = hakyll $ do
     --Authors
     authors <- makeTagsRules "author" (postPattern .&&. hasNoVersion) (fromCapture "writers/**.html") ("Posts by "++) "writers.html" "Writers"
 
-    blah <- buildTagsFrom "blah" (postPattern .&&. hasNoVersion) (fromCapture "blah/**.html")
-
     --POSTS
-    match postPattern $ postRules blah tags
+    match postPattern $ postRules authors tags
 
     --TOP-LEVEL PAGES
     match "pages/*.md" $ pageRules 
@@ -146,14 +139,7 @@ pageRules = do
 postRules :: Tags -> Tags -> Rules ()
 postRules authors tags = do
   route $ setExtension "html"
-  defaultRules (prevNextContext postPattern <> tocCtx <> tagsField "author" authors <> --("MR. " <>) . 
-    --(tagsFieldWith getTags simpleRenderLink (mconcat . intersperse ", ") "author" tags) <> 
-                postCtxWithTags tags <> constField "isPost" "true")
-
-simpleRenderLink :: String -> (Maybe FilePath) -> Maybe H.Html
-simpleRenderLink _   Nothing         = Nothing
-simpleRenderLink tag (Just filePath) =
-  Just $ H.a ! A.href (toValue $ toUrl filePath) $ toHtml tag
+  defaultRules (prevNextContext postPattern <> tocCtx <> postCtxWithTags tags <> constField "isPost" "true")
 
 defaultRules :: Context String -> Rules ()
 defaultRules ctx = do
