@@ -24,7 +24,11 @@
     <div class="info">
       
        
-        <p class="subs">by Fron
+        <p class="subs">by 
+	</p>
+      
+       
+        <p class="subs">Tags: <a href="/tags/radio.html">radio</a>, <a href="/tags/jellyfish.html">jellyfish</a>
 	</p>
       
        
@@ -50,6 +54,15 @@
   </div>
 
     
+
+    <!-- Previous/next post-->
+    <div>
+    
+    <a href="/posts/the-street.html" style="float:left;">Previous post</a>
+    
+    
+    </div>
+    <br>
 
     <!-- Extension : Sharing buttons @ www.sharethis.com -->
     <span class='st_facebook_large' displayText='Facebook'></span>
@@ -84,7 +97,11 @@
     <div class="info">
       
        
-        <p class="subs">by Professor Wyse
+        <p class="subs">by 
+	</p>
+      
+       
+        <p class="subs">Tags: 
 	</p>
       
        
@@ -109,6 +126,17 @@
   </div>
 
     
+
+    <!-- Previous/next post-->
+    <div>
+    
+    <a href="" style="float:left;">Previous post</a>
+    
+    
+    <a href="/posts/PHSS.html" style="float:right; text-align: right;">Next post</a>
+    
+    </div>
+    <br>
 
     <!-- Extension : Sharing buttons @ www.sharethis.com -->
     <span class='st_facebook_large' displayText='Facebook'></span>

@@ -1,0 +1,75 @@
+--------------------------------------------------------------------------------
+{-# LANGUAGE OverloadedStrings, TupleSections, LambdaCase #-}
+module PrevNextPost where
+import Control.Applicative (Alternative (..))
+import           Data.Char
+import           Data.Maybe
+import           Data.Monoid
+import qualified Data.Set as S
+import           Hakyll
+import           Text.Pandoc.Options
+import           System.FilePath (takeBaseName, takeFileName, takeDirectory, joinPath, splitPath, replaceExtension)
+import           Control.Lens hiding (Context)
+import           Control.Monad
+import           Data.List
+import qualified Data.Map as M
+import qualified Data.MultiMap as MM
+import           Text.Printf
+--import qualified Data.Tree as T
+import Debug.Trace
+import Utilities
+import HakyllUtils
+
+import Data.Time.Format (parseTime, defaultTimeLocale)
+-- import System.Locale (defaultTimeLocale)
+import Data.Time.Clock (UTCTime)
+
+prevNextContext :: Pattern -> Context String
+prevNextContext postsGlob = field "nextPost" (nextPostUrl postsGlob) <>
+                            field "prevPost" (previousPostUrl postsGlob)
+
+previousPostUrl :: Pattern -> Item String -> Compiler String
+previousPostUrl postsGlob post = do
+    posts <- getMatches postsGlob
+    let ident = itemIdentifier post
+        sortedPosts = sortIdentifiersByDate posts
+        ident' = itemBefore sortedPosts ident
+    case ident' of
+        Just i -> (fmap (maybe empty $ toUrl) . getRoute) i
+        Nothing -> empty
+
+
+nextPostUrl :: Pattern -> Item String -> Compiler String
+nextPostUrl postsGlob post = do
+    posts <- getMatches postsGlob
+    let ident = itemIdentifier post
+        sortedPosts = sortIdentifiersByDate posts
+        ident' = itemAfter sortedPosts ident
+    case ident' of
+        Just i -> (fmap (maybe empty $ toUrl) . getRoute) i
+        Nothing -> empty
+
+
+itemAfter :: Eq a => [a] -> a -> Maybe a
+itemAfter xs x =
+    lookup x $ zip xs (tail xs)
+
+
+itemBefore :: Eq a => [a] -> a -> Maybe a
+itemBefore xs x =
+    lookup x $ zip (tail xs) xs
+
+
+urlOfPost :: Item String -> Compiler String
+urlOfPost =
+    fmap (maybe empty $ toUrl) . getRoute . itemIdentifier
+
+sortIdentifiersByDate :: [Identifier] -> [Identifier]
+sortIdentifiersByDate identifiers =
+    reverse $ sortBy byDate identifiers
+        where
+            byDate id1 id2 =
+                let fn1 = takeFileName $ toFilePath id1
+                    fn2 = takeFileName $ toFilePath id2
+                    parseTime' fn = parseTime defaultTimeLocale "%Y-%m-%d" $ intercalate "-" $ take 3 $ splitAll "-" fn
+                in compare ((parseTime' fn1) :: Maybe UTCTime) ((parseTime' fn2) :: Maybe UTCTime)

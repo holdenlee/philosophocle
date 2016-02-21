@@ -10,6 +10,10 @@
         <p class="subs">by $author$
 	</p>
       $endif$
+      $if(tags)$ 
+        <p class="subs">Tags: $tags$
+	</p>
+      $endif$
       $if(date)$ 
         <p class="subs">on $date$
 	</p>
@@ -29,6 +33,17 @@
   </div>
 
     $if(isPost)$
+
+    <!-- Previous/next post-->
+    <div>
+    $if(prevPost)$
+    <a href="$prevPost$" style="float:left;">Previous post</a>
+    $endif$
+    $if(nextPost)$
+    <a href="$nextPost$" style="float:right; text-align: right;">Next post</a>
+    $endif$
+    </div>
+    <br>
 
     <!-- Extension : Sharing buttons @ www.sharethis.com -->
     <span class='st_facebook_large' displayText='Facebook'></span>

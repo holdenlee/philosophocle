@@ -16,7 +16,6 @@ import           Text.Printf
 --import qualified Data.Tree as T
 import Debug.Trace
 import Utilities
-import FunTree
 import HakyllUtils
 
 getTagsFrom :: MonadMetadata m => String -> Identifier -> m [String]

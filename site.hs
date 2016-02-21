@@ -19,6 +19,12 @@ import HakyllUtils
 import NestedCategories
 import TableOfContents
 import CustomTags
+import PrevNextPost
+
+import           Text.Blaze.Html                 (toHtml, toValue, (!))
+import           Text.Blaze.Html.Renderer.String (renderHtml)
+import qualified Text.Blaze.Html5                as H
+import qualified Text.Blaze.Html5.Attributes     as A
 
 siteURL :: String
 siteURL = "http://holdenlee.github.io/philosophocle"
@@ -65,8 +71,13 @@ main = hakyll $ do
           >>= loadAndApplyTemplate "templates/default.html" ctx
           >>= relativizeUrls
 
+    --Authors
+    authors <- makeTagsRules "author" (postPattern .&&. hasNoVersion) (fromCapture "writers/**.html") ("Posts by "++) "writers.html" "Writers"
+
+    blah <- buildTagsFrom "blah" (postPattern .&&. hasNoVersion) (fromCapture "blah/**.html")
+
     --POSTS
-    match postPattern $ postRules tags
+    match postPattern $ postRules blah tags
 
     --TOP-LEVEL PAGES
     match "pages/*.md" $ pageRules 
@@ -87,9 +98,6 @@ main = hakyll $ do
 --                >>= loadAndApplyTemplate "templates/post.html" indexCtx
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx
                 >>= relativizeUrls
-    
-    --Authors
-    makeTagsRules "author" (postPattern .&&. hasNoVersion) (fromCapture "writers/**.html") ("Posts by "++) "writers.html" "Writers"
 
     --TOC for posts
     match postPattern $ compileTOCVersion
@@ -97,7 +105,7 @@ main = hakyll $ do
     --FEED
     atomCompiler "content" tags
 
-makeTagsRules :: String -> Pattern -> (String -> Identifier) -> (String -> String) -> Identifier -> String -> Rules ()
+makeTagsRules :: String -> Pattern -> (String -> Identifier) -> (String -> String) -> Identifier -> String -> Rules Tags
 makeTagsRules name pat capt makeTitle pageName title = do 
     tags <- buildTagsFrom name pat capt
     tagsRules tags $ \tag pattern -> do
@@ -124,6 +132,8 @@ makeTagsRules name pat capt makeTitle pageName title = do
           >>= loadAndApplyTemplate "templates/default.html" mapCtx
           >>= relativizeUrls
 
+    return tags
+
 postPattern :: Pattern
 postPattern = "posts/**.md"
 
@@ -132,10 +142,18 @@ pageRules = do
   route $ takeFileNameRoute "html"
   defaultRules postCtx
 
-postRules :: Tags -> Rules ()
-postRules tags = do
+-- !!!
+postRules :: Tags -> Tags -> Rules ()
+postRules authors tags = do
   route $ setExtension "html"
-  defaultRules (tocCtx <> postCtxWithTags tags <> constField "isPost" "true")
+  defaultRules (prevNextContext postPattern <> tocCtx <> tagsField "author" authors <> --("MR. " <>) . 
+    --(tagsFieldWith getTags simpleRenderLink (mconcat . intersperse ", ") "author" tags) <> 
+                postCtxWithTags tags <> constField "isPost" "true")
+
+simpleRenderLink :: String -> (Maybe FilePath) -> Maybe H.Html
+simpleRenderLink _   Nothing         = Nothing
+simpleRenderLink tag (Just filePath) =
+  Just $ H.a ! A.href (toValue $ toUrl filePath) $ toHtml tag
 
 defaultRules :: Context String -> Rules ()
 defaultRules ctx = do
