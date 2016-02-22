@@ -92,6 +92,23 @@ main = hakyll $ do
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx
                 >>= relativizeUrls
 
+    --ARCHIVE
+    match "archive.html" $ do
+        route idRoute
+        compile $ do
+            pandocMathCompiler
+            posts <- chronological =<< loadAll (postPattern .&&. hasNoVersion)
+            let arcCtx =
+                    listField "posts" postCtx (return posts) <>
+                    constField "title" "Archive"   <>
+                    basicCtx
+
+            getResourceBody
+                >>= applyAsTemplate arcCtx
+                >>= loadAndApplyTemplate "templates/post.html" arcCtx
+                >>= loadAndApplyTemplate "templates/default.html" arcCtx
+                >>= relativizeUrls
+
     --TOC for posts
     match postPattern $ compileTOCVersion
 

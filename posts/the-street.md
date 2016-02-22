@@ -2,8 +2,8 @@
 title: The Street
 published: 2016-02-19
 modified: 2016-02-19
-author: Professor Wyse
-characters: Professor Wyse
+author: Professor Whyse
+characters: Professor Whyse
 ---
 
 In Philosophocle, the street is lined with cafes and snackeries. Each advertises a different atmosphere. The high-class Starset, with individual tables, with waiters, mochas drawn in the shape of maidens, hot chocolate in tall glasses with swirly chocolate straws; the crowd-pleasing Delites, with bubble tea, self-serve yogurt machines with toppings, mochis in tantalizing rows beneath cartoon pictures of themselves, the color of their filling leaking through their faces like a soft blush. <!--more--> There's simplitea, where you get a tea bag, hot water, and a place to sit for 50 cents. People go to Delites with a group of friends - no one will pay attention to you if you go alone - but somewhere like Serendipiteas, you are ushered in to a random seat, facing someone you do not know. In Melli's Flows the conversations never stop, hurried on by the always-present bubbling fountain (careful: the fish bite), guests are encouraged to go from table to table, with different h'ors d'oveures at each table to tempt (free with entrance ticket).
