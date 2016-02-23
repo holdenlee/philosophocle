@@ -14,4 +14,4 @@ Recently there's been a new addition. The Electric Eel, it's called, and it look
 
 I'm not so sure about the Electric Eel. Some of us think it's a bad influence from the Continent, where such things are called "nightclubs" and are home to uncontrolled lewdness (Impassionatta, on the other hand, is quite controlled.). But we of course let the students have their fun, as long as they're not violent.
 
-[f1]: Talking about the weather at Philosophocle is a very serious matter! For it is impossible to reduce the state of the weather to a word like "cloudy" or "sunny," the emotions of the sky are more variegated than the emotions of people, being so much vaster in scope.
+[^f1]: Talking about the weather at Philosophocle is a very serious matter! For it is impossible to reduce the state of the weather to a word like "cloudy" or "sunny," the emotions of the sky are more variegated than the emotions of people, being so much vaster in scope.
