@@ -1,7 +1,7 @@
 ---
 title: The Street
-published: 2016-02-19
-modified: 2016-02-19
+published: 2016-02-22
+modified: 2016-02-22
 author: Professor Whyse
 characters: Professor Whyse
 ---
