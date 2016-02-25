@@ -71,6 +71,7 @@ main = hakyll $ do
 
     --POSTS
     match postPattern $ postRules authors tags
+--(postPattern .&&. hasNoVersion)
 
     --TOP-LEVEL PAGES
     match "pages/*.md" $ pageRules 
@@ -156,7 +157,8 @@ pageRules = do
 postRules :: Tags -> Tags -> Rules ()
 postRules authors tags = do
   route $ setExtension "html"
-  defaultRules (prevNextContext postPattern <> tocCtx <> postCtxWithTags tags <> constField "isPost" "true")
+  defaultRules (tocCtx <> postCtxWithTags tags <> constField "isPost" "true")
+--prevNextContext (postPattern .&&. hasNoVersion) <> 
 
 defaultRules :: Context String -> Rules ()
 defaultRules ctx = do

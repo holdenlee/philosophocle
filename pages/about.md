@@ -6,4 +6,4 @@ title: About
 
 You may contact the Philosophocle administration at [philosophocler@gmail.com](mailto:philosophocler@gmail.com) and follow us at @[philosophocler](https://twitter.com/philosophocler). Please note that if you contact us, you give us your consent to reproduce our communications (with appropriate modifications), in order to foster cultural exchange.
 
-The shortlink for this website is [http://philosophocle.tk](http://philosophocle.tk).
+The shortlink for this website is [http://philosophocle.tk](http://philosophocle.tk). We update approximately 2 times per week.
