@@ -9,11 +9,13 @@
 .banner h1{
     font-family: "Trajan Pro", Georgia, serif;
     font-size: 80px;
+    font-size: 7vw;
 }
 
 .banner h2{
     font-family: "Trajan Pro", Georgia, serif;
     font-size: 30px;
+    font-size: 3vw;
     font-style: italic;
 }
 
