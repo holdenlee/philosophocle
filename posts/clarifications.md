@@ -12,7 +12,7 @@ I was dismayed. Where was the introduction that I had mailed to our webmaster tw
 
 I had closed my eyes and told Fron, "Breathe. Is it right for you to be frustrated at your professor? Given how many times professors have patiently explained things to you while possibly harboring unspoken thoughts about your lack of intelligence, could you not return the favor?"
 
-Fortunately, Fron is not Lisa, and was immediately chastised. He then proceeded to re-type the post and e-mail it. I believe Fron is a good student, even though he often gets caught in the spur of the moment. There is a reason that students in his year are called "sophomores."
+Fortunately, Fron is not [Lisa](these-bachelor-monks.html), and was immediately chastised. He then proceeded to re-type the post and e-mail it. I believe Fron is a good student, even though he often gets caught in the spur of the moment. There is a reason that students in his year are called "sophomores."
 
 After some discussion, we realized why my second post was up but not the first. I had communicated to the webmaster that my post was not to be published until he had received the other post as well. Fron, however, being more versed in electronic mail, had e-mailed a post of his own, before my handwritten post had arrived, triggering the webmaster's criterion to publish prematurely. Together we decided to email the webmaster to clear up the confusion, and apologize for the lack of an introductory post.
 
