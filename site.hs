@@ -69,6 +69,12 @@ main = hakyll $ do
     --Authors
     authors <- makeTagsRules "author" (postPattern .&&. hasNoVersion) (fromCapture "writers/**.html") ("Posts by "++) "writers.html" "Writers"
 
+    {-match postPattern $ do
+        compile $ do 
+            pandocMathCompiler
+                  >>= loadAndApplyTemplate "templates/post.html"
+                  >>= dateField "date" "%F"-}
+
     --POSTS
     match postPattern $ postRules authors tags
 --(postPattern .&&. hasNoVersion)
@@ -116,6 +122,7 @@ main = hakyll $ do
     --FEED
     atomCompiler "content" tags
 
+--how to make this chronological?
 makeTagsRules :: String -> Pattern -> (String -> Identifier) -> (String -> String) -> Identifier -> String -> Rules Tags
 makeTagsRules name pat capt makeTitle pageName title = do 
     tags <- buildTagsFrom name pat capt
@@ -157,7 +164,7 @@ pageRules = do
 postRules :: Tags -> Tags -> Rules ()
 postRules authors tags = do
   route $ setExtension "html"
-  defaultRules (tocCtx <> postCtxWithTags tags <> constField "isPost" "true")
+  defaultRules (prevNextContext (postPattern .&&. hasNoVersion) <> tocCtx <> postCtxWithTags tags <> constField "isPost" "true")
 --prevNextContext (postPattern .&&. hasNoVersion) <> 
 
 defaultRules :: Context String -> Rules ()

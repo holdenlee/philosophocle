@@ -30,15 +30,29 @@ prevNextContext postsGlob = field "nextPost" (nextPostUrl postsGlob) <>
 
 previousPostUrl :: Pattern -> Item String -> Compiler String
 previousPostUrl postsGlob post = do
-    posts <- getMatches postsGlob
     let ident = itemIdentifier post
-        sortedPosts = sortIdentifiersByDate posts
-        ident' = itemBefore sortedPosts ident
+    posts <- getMatches postsGlob
+    dates <- mapM (getItemUTC defaultTimeLocale) posts
+    let sorted = sort $ zip dates posts
+        (_, ordPosts) = unzip sorted  
+    let ident' = itemBefore ordPosts ident
     case ident' of
         Just i -> (fmap (maybe empty $ toUrl) . getRoute) i
         Nothing -> empty
 
+nextPostUrl :: Pattern -> Item String -> Compiler String
+nextPostUrl postsGlob post = do
+    let ident = itemIdentifier post
+    posts <- getMatches postsGlob
+    dates <- mapM (getItemUTC defaultTimeLocale) posts
+    let sorted = sort $ zip dates posts
+        (_, ordPosts) = unzip sorted  
+    let ident' = itemAfter ordPosts ident
+    case ident' of
+        Just i -> (fmap (maybe empty $ toUrl) . getRoute) i
+        Nothing -> empty
 
+{-
 nextPostUrl :: Pattern -> Item String -> Compiler String
 nextPostUrl postsGlob post = do
     posts <- getMatches postsGlob
@@ -48,12 +62,22 @@ nextPostUrl postsGlob post = do
     case ident' of
         Just i -> (fmap (maybe empty $ toUrl) . getRoute) i
         Nothing -> empty
-
+-}
+itemAfter' :: Eq a => [(a,b)] -> a -> Maybe b
+itemAfter' xys x = do
+    let (xs, ys) = unzip xys
+    x' <- lookup x $ zip xs (tail xs)
+    lookup x' $ zip xs ys
 
 itemAfter :: Eq a => [a] -> a -> Maybe a
 itemAfter xs x =
     lookup x $ zip xs (tail xs)
 
+itemBefore' :: Eq a => [(a,b)] -> a -> Maybe b
+itemBefore' xys x = do
+    let (xs, ys) = unzip xys
+    x' <- lookup x $ zip (tail xs) xs
+    lookup x' $ zip xs ys
 
 itemBefore :: Eq a => [a] -> a -> Maybe a
 itemBefore xs x =
@@ -64,6 +88,7 @@ urlOfPost :: Item String -> Compiler String
 urlOfPost =
     fmap (maybe empty $ toUrl) . getRoute . itemIdentifier
 
+{-
 sortIdentifiersByDate :: [Identifier] -> [Identifier]
 sortIdentifiersByDate identifiers =
     reverse $ sortBy byDate identifiers
@@ -73,3 +98,4 @@ sortIdentifiersByDate identifiers =
                     fn2 = takeFileName $ toFilePath id2
                     parseTime' fn = parseTime defaultTimeLocale "%Y-%m-%d" $ intercalate "-" $ take 3 $ splitAll "-" fn
                 in compare ((parseTime' fn1) :: Maybe UTCTime) ((parseTime' fn2) :: Maybe UTCTime)
+-}
