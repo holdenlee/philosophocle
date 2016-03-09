@@ -69,12 +69,6 @@ main = hakyll $ do
     --Authors
     authors <- makeTagsRules "author" (postPattern .&&. hasNoVersion) (fromCapture "writers/**.html") ("Posts by "++) "writers.html" "Writers"
 
-    {-match postPattern $ do
-        compile $ do 
-            pandocMathCompiler
-                  >>= loadAndApplyTemplate "templates/post.html"
-                  >>= dateField "date" "%F"-}
-
     --POSTS
     match postPattern $ postRules authors tags
 --(postPattern .&&. hasNoVersion)

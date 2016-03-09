@@ -52,17 +52,6 @@ nextPostUrl postsGlob post = do
         Just i -> (fmap (maybe empty $ toUrl) . getRoute) i
         Nothing -> empty
 
-{-
-nextPostUrl :: Pattern -> Item String -> Compiler String
-nextPostUrl postsGlob post = do
-    posts <- getMatches postsGlob
-    let ident = itemIdentifier post
-        sortedPosts = sortIdentifiersByDate posts
-        ident' = itemAfter sortedPosts ident
-    case ident' of
-        Just i -> (fmap (maybe empty $ toUrl) . getRoute) i
-        Nothing -> empty
--}
 itemAfter' :: Eq a => [(a,b)] -> a -> Maybe b
 itemAfter' xys x = do
     let (xs, ys) = unzip xys
@@ -87,15 +76,3 @@ itemBefore xs x =
 urlOfPost :: Item String -> Compiler String
 urlOfPost =
     fmap (maybe empty $ toUrl) . getRoute . itemIdentifier
-
-{-
-sortIdentifiersByDate :: [Identifier] -> [Identifier]
-sortIdentifiersByDate identifiers =
-    reverse $ sortBy byDate identifiers
-        where
-            byDate id1 id2 =
-                let fn1 = takeFileName $ toFilePath id1
-                    fn2 = takeFileName $ toFilePath id2
-                    parseTime' fn = parseTime defaultTimeLocale "%Y-%m-%d" $ intercalate "-" $ take 3 $ splitAll "-" fn
-                in compare ((parseTime' fn1) :: Maybe UTCTime) ((parseTime' fn2) :: Maybe UTCTime)
--}
