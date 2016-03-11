@@ -1,0 +1,15 @@
+---
+title: These Bachelor Monks, II
+published: 2016-03-11
+modified: 2016-03-11
+author: Lisa
+characters: Lisa, Dr. "Fishface" Adams
+---
+
+[< Part I](these-bachelor-monks.html)
+
+There's no lack of coffeehouses on the Street (although they call themselves teahouses, and the coffee menu is always second. Sure, to have one person prefer tea over coffee was reasonable, but a whole society? The professors and students, I concluded, must not like being jolted out of their book-induced stupor, because then they might be encouraged to try other things as well). <!--more--> It doesn't seem, however, that these people have much of a notion of privacy - hardly I'd sit down and someone would slide in the seat across from me, introduce themselves (and their thesis topic!), and ask about me or about "the weather." The teahouses branded themselves on being places to meet interesting strangers, and boy, was I an interesting stranger (no wonder they double-stamp my loyalty cards! I probably increased their business). I answered their questions with extensive responses that would make even the loquacious among them flinch. (The weather is shitting today. One cannot go outside without millions of liquid globules worming their way into one's clothes. It brings to mind the inelegance of existence: are we not all bags of meat and excrement? Could the clouds not 'use the toilet' somewhere else, to use a euphemic term? But one aspect of cloud-shitting and human-shitting is quite different, in the degree of passion in which the heavens shit down upon us: might this be to suggest a degree of passion which is missing among the inhabitants of this world?)
+
+There's quite a few students who keep wanting to "talk to me," "be my friend," and so forth. I know what they want, but they won't say it out loud, and I'm not sure that they could even say it to themselves if their lives depended on it! I, of course, will never initiate action, because that would quite ruin my follow-up, "observational" study on the sexual suppression of Philosophocle students. Instead they say that they've learned a new outlook on their search for knowledge by the unrivaled, symbolic contrariness of my actions, a fundamentally different and unique way of being... and then they pause as if expecting me to say something more than just "Good for you!" To use a vulgarity from the outside world, most of them never get to "first base." (If they had sports teams, maybe they would release some of their pent-up energy...)
+
+I much rather prefer Deepsea Teas. One can get a table alone there, and even draw up the curtains. I like the booths by the fish tanks. The fish stare at me and look as if they're mouthing silent speeches at me ("Do most of our words not fall deaf on the ears of the world?" was a favorite question of Dr. "Fishface" Adams; if you attempted to reply to his question, your answer would indeed fall deaf on the ears of Dr. "Fishface" Adams). Their coffee is expensive, but if you buy their mug you get unlimited refills each visit. I heartily approve.

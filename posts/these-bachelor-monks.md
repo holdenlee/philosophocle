@@ -16,3 +16,5 @@ He thought very hard about it (looking at my exposed belly all the time) before 
 "Then you must agree, too, that freedom of clothing includes the right to remain naked?" With that I started undoing the buttons to my blouse. Dr. Flindus reddened; this was obviously outside his rhetorical repertoire. Smartly, I decided to take it no further than this. "On second thought, I refuse to disrobe in front of those who obviously cannot appreciate the human body," I said as I took my seat.
 
 At the end of the class, I'd found several notes dropped into my open bookbag, from students who wrote that they, indeed, appreciated the human body.
+
+[> Part 2](these-bachelor-monks-ii.html)

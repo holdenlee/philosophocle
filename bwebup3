@@ -1,0 +1,39 @@
+#!/bin/bash
+
+cygstart powershell "chcp 65001; ./site build"
+#note & pid=$! does NOT work; powershell changes its pid.
+pid=`ps | grep 'powershell' | head -n 1 | awk '{print $1}'`
+
+echo $pid
+
+delay=1
+usage=0;
+
+#Redirect stdout and stderr of the ps command to /dev/null
+ps -p$pid 2>&1 > /dev/null
+
+#Grab the status of the ps command 
+status=$?
+
+#A value of 0 means that it was found running 
+if [ "$status" == "0" ]
+then
+while [ "$status" == "0" ]
+do
+sleep $delay
+ps -p$pid 2>&1 > /dev/null
+status=$?
+done
+
+#The process has started, do something here 
+cp -TRv _site/ ../blog/
+gitup2 "$1" hakyll
+cd ../blog
+gitup2 "$1" gh-pages
+
+#A value of non-0 means that it was NOT found running 
+else
+echo Process with pid $pid is not running
+fi
+
+

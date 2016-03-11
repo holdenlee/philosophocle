@@ -11,6 +11,8 @@ import           Data.List
 import qualified Data.Map as M
 import qualified Data.MultiMap as MM
 import           Text.Printf
+import Data.Time.Format (defaultTimeLocale)
+
 --import qualified Data.Tree as T
 import Debug.Trace
 import Utilities
@@ -20,6 +22,7 @@ import NestedCategories
 import TableOfContents
 import CustomTags
 import PrevNextPost
+
 
 siteURL :: String
 siteURL = "http://holdenlee.github.io/philosophocle"
@@ -123,10 +126,15 @@ makeTagsRules name pat capt makeTitle pageName title = do
     tagsRules tags $ \tag pattern -> do
       let title = makeTitle tag -- "Posts by " ++ tag
       route idRoute
-      compile $ do
+      compile $ do {-
+        posts <- getMatches pat
+        dates <- mapM (getItemUTC defaultTimeLocale) posts
+        let sorted = sort $ zip dates posts
+        let (_, ordPosts) = unzip sorted  --}
+--    dateField "date" "%F" <>
         posts <- recentFirst =<< loadAll pattern
         let ctx = constField "title" title <>
-                  listField "posts" postCtx (return posts) <>
+                  listField "posts" postCtx (return posts) <> -- (load ordPosts) <>
                   basicCtx
         makeItem ""
           >>= loadAndApplyTemplate "templates/tag.html" ctx
