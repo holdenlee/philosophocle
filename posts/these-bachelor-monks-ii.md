@@ -6,7 +6,7 @@ author: Lisa
 characters: Lisa, Dr. "Fishface" Adams
 ---
 
-[< Part I](these-bachelor-monks.html)
+[< Part I](/posts/these-bachelor-monks.html)
 
 There's no lack of coffeehouses on the Street (although they call themselves teahouses, and the coffee menu is always second. Sure, to have one person prefer tea over coffee was reasonable, but a whole society? The professors and students, I concluded, must not like being jolted out of their book-induced stupor, because then they might be encouraged to try other things as well). <!--more--> It doesn't seem, however, that these people have much of a notion of privacy - hardly I'd sit down and someone would slide in the seat across from me, introduce themselves (and their thesis topic!), and ask about me or about "the weather." The teahouses branded themselves on being places to meet interesting strangers, and boy, was I an interesting stranger (no wonder they double-stamp my loyalty cards! I probably increased their business). I answered their questions with extensive responses that would make even the loquacious among them flinch. (The weather is shitting today. One cannot go outside without millions of liquid globules worming their way into one's clothes. It brings to mind the inelegance of existence: are we not all bags of meat and excrement? Could the clouds not 'use the toilet' somewhere else, to use a euphemic term? But one aspect of cloud-shitting and human-shitting is quite different, in the degree of passion in which the heavens shit down upon us: might this be to suggest a degree of passion which is missing among the inhabitants of this world?)
 
