@@ -15,11 +15,11 @@ After a semester and a half of failing subjects from Classical Painting to Intro
 
 "These aren't like exam questions. The questions in trivia nights are *unusual*." <!--more-->
 
-They wouldn't tell me how, though. As we walked to the Electric Eel, I imagined the trivia-masters would ask questions such as identification of unusual colors, or the eight elements named in the Faerie Sonnets, or the right ratio of baking powder to baking soda in banana bread, that I would be uniquely able to answer.
+They wouldn't tell me how, though. As we walked to the [Electric Eel](the-street.html), I imagined the trivia-masters would ask questions such as identification of unusual colors, or the eight elements named in the Faerie Sonnets, or the right ratio of baking powder to baking soda in banana bread, that I would be uniquely able to answer.
 
 But the masculinity of trivia appalled me. Trivia brought out the vilest parts of people. They tried to regurgitate answers that had been memorized from encyclopedias, newspapers, PHSS, the Internet, professors, missed questions on exams, word of mouth, or the "fact sheets" posted around campus and at the bus stop (for those who forgot to bring a book to pass the time).
 
-I felt as if I were among Uniformists, except worse, because they were rowdy, all raising their hands, pounding on the tables, and clinking iced cubes in their drinks. I could feel the same answer being echoed in half the minds, even though I did not know what the answer was. Every time the Great Danzini directed a question at me, I came up with a random name, such as "Jeanatta Wullis" or "Ruthner Quorcum". Unfortunately, not a single one was right. It was as if I was standing on one of the rings of Neptune, trying to throw a dart to hit exactly the pinnacle of Philosophocle.
+I felt as if I were among [Uniformists](uniformist-lunch-table.html), except worse, because they were rowdy, all raising their hands, pounding on the tables, and clinking iced cubes in their drinks. I could feel the same answer being echoed in half the minds, even though I did not know what the answer was. Every time the Great Danzini directed a question at me, I came up with a random name, such as "Jeanatta Wullis" or "Ruthner Quorcum". Unfortunately, not a single one was right. It was as if I was standing on one of the rings of Neptune, trying to throw a dart to hit exactly the pinnacle of Philosophocle.
 
 # 2 A Free Friend
 
@@ -37,9 +37,9 @@ She gave me the phone.
 
 I took a deep breath. "I'm having this crisis, I just went to trivia night at the Electric Eel, and if I were to compare myself to a tree, each question they asked me wounded me like a swing of an ax..."
 
-"I'd love to help you," came the voice at the other end of the line, "but I'm helping someone deal with a breakup right now, and I think that losing at trivia night is a triviality in comparison... Give the phone back to Lisa, she can find you someone else."
+"I'd love to help you," came the voice at the other end of the line, "but I'm helping someone deal with a breakup right now. I grant that losing at trivia night is a bad experience, but wouldn't you say it's a bit more... trivial? Give the phone back to Lisa, she can find you someone else."
 
-Lisa dialed another number (no response), and another (already busy with a befriendee). She checked the charts, "Joe takes the 3-4am shift off to listen to the radio hour, Jannie and Lura are out of town this week... I hate to say this, but we don't have any befrienders available today." She wrung her hands. "Looks like the world is just shitting on you today, you literally came the only time that we don't have a single person available. I'll give you a rain check on that, you can come for a free friend anytime... Here, why don't you listen to the radio, perhaps it will have some 'Mellow beats' like last week."
+Lisa dialed another number (no response), and another (already busy with a befriendee). She checked the charts, "Joe takes the 3-4am shift off to listen to the [radio hour](PHSS.html), Jannie and Lura are out of town this week... I hate to say this, but we don't have any befrienders available today." She wrung her hands. "Looks like the world is just shitting on you today, you literally came the only time that we don't have a single person available. I'll give you a rain check on that, you can come for a free friend anytime... Here, why don't you listen to the radio, perhaps it will have some 'Mellow beats' like last week."
 
 But instead it was some kind of primal screeching accompanied by clangs of metal. 
 
@@ -99,11 +99,11 @@ I squinted. I tried to make out a deer, a wok, a stairway to heaven, a snake eat
 
 We ducked under an archway of two kissing trees and came to a humble blue doorway. Lisa fiddled with the lock and the door opened. She struck a match and lit a lantern hanging beside the door.
 
-"This is the Scoop. There aren't any cookies here now, though there is some delicious cookie dough in the fridge. But the real exhibit is downstairs."
+"This is [the Scoop](the-scoop.html). There aren't any cookies here now, though there is some delicious cookie dough in the fridge. But the real exhibit is downstairs."
 
 Just looking at the cafe for a few seconds under the dim light, I could tell it was a friendly place. The walls were chalkboards upon which students had wrote poems that I did not recognize as part of the "classics". Unlike the identical, industrial stools of the Electric Eel, the chairs were all flawed in their own way, like individual people.
 
-After Lisa force-fed me some cookie dough, we went to the Workshop in the basement. 
+After Lisa fed me some cookie dough, we went to the Workshop in the basement. 
 
 There were three long tables, filled with art supplies like glitter, glitter glue, scissors, metal hooks, plastic eyes, pipe cleaners, bubble-letter tracers, a Random Quote Box, beads, thread, yarn, buttons, colored pencils, paint, spray paint, construction paper, felt, cardboard, burnt-out light bulbs, cut-out book covers, magazines, shells, stones, clay, sketch books, craft books, pop-up books, T-shirts awaiting color, used-up toilet paper rolls, starcharts, toothpicks, cotton balls, socks, flower petals, acorn caps, last autumn's leaves, feathers dropped from birds in flight, and coconut shells. The floor was covered with old newspaper. There was a U-shirt hanging from a clothesline, which had been defaced by the addition of a set of arms and legs to the U. (I saw then, crystal clear, what U meant: it was an empty receptacle, waiting to be filled, incapable of filling itself.) There was a half-decayed mushroom palace, made from the fruits of a mycological expedition.
 
