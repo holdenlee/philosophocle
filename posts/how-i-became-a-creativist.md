@@ -117,4 +117,4 @@ I nodded. I didn't trust myself to open my mouth to speak---if I did, I was sure
 
 Lisa opened a drawer and took out a small wooden box with a handle. "This," she said, "is a Randomizer."
 
-*to be continued...*
+[Part II](how-i-became-a-creativist-ii.md)
