@@ -87,7 +87,7 @@ I noticed some ghostly figures drifting across campus. The two leaders had blank
 
 "Who are they?" I asked.
 
-"The Wanderers. You really missed everything at the Ideologies Fair, didn't you? It's alright, I'll give you an overview." She pointed at the stars. "What does that look like to you?"
+"The Wonderers. You really missed everything at the Ideologies Fair, didn't you? It's alright, I'll give you an overview." She pointed at the stars. "What does that look like to you?"
 
 I squinted. I tried to make out a deer, a wok, a stairway to heaven, a snake eating its own tail, anything, but came up with "a glob?"
 
