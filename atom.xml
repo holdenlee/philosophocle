@@ -8,8 +8,130 @@
         <name>Scholars of Philosophocle</name>
         <email></email>
     </author>
-    <updated>2016-04-12T00:00:00Z</updated>
+    <updated>2016-04-17T00:00:00Z</updated>
     <entry>
+    <title>Housing Optimization</title>
+    <link href="http://holdenlee.github.io/philosophocle/posts/housing-optimization.html" />
+    <id>http://holdenlee.github.io/philosophocle/posts/housing-optimization.html</id>
+    <published>2016-04-17T00:00:00Z</published>
+    <updated>2016-04-17T00:00:00Z</updated>
+    <summary type="html"><![CDATA[
+<div class="container">
+  <div id="content">
+    <div class="page header">
+      <h1>Housing Optimization</h1>
+    </div>
+    <div class="info">
+      
+       
+        <p class="subs">by Fron
+	</p>
+      
+       
+        <p class="subs">on 2016-04-17
+	</p>
+      
+    </div>
+    
+  </div>
+  <!--/div-->
+
+  <hr>
+
+  
+
+  <div class="blog-main">
+    <p>When I <a href="/posts/how-i-became-a-uniformist.html">walked out of the Ideologies Fair</a>, I thought I would never see my shirt ever again.</p>
+<!--more-->
+<p>Imagine my surprise when the next day, I woke up to see my roommate, Lukko, wearing that monstrosity! Very briefly my vision was blasted with a riot of color displayed like the petals of some putrid, carnivorous jungle flora and glitter-glue constellations splayed out like the tentacles of some interstellar <em>lusus naturae</em> with too many plastic eyes, before I covered my eyes away and yelled, “Where did you get that?!”</p>
+<p>“Trevisia gave it to me,” he said.</p>
+<p>It struck me that Lukko had been the one warbling “opera” at the Ideologies Fair. So excited had I been during Orientation that I had not bothered to commit my roommate’s face to memory, and hence had failed to recognize him at the Fair.</p>
+<p>“Please don’t wear that. It’s offensive to me, and it doesn’t belong to you.”</p>
+<p>“It does, because you donated it to the Creativists,” Lukko said, “And I will wear it to remind you of your creative side. The more you surround yourself with U’s, Frongo, the more you’ll forget there ever is such a thing as creativity.”</p>
+<p>Lukko paced as he crunched his toast (because sitting down eating it would be “standard”). He swung a chain that held one of those Creativist wooden boxes (decorated with many pipe-cleaner arms to look like a primeval bacteriophage) that would spit out a prompt every thirty minutes. I would come to dread this effigy over the next week, going so far as to buy a phonograph and a record entitled “Calming music” and huddle besides the phonograph’s trumpet every thirty minutes.</p>
+<p>“Besides, once you create something, it has a life of its own. You can never, ever take it back.”</p>
+<p>Lukko became an avid Creativist. In fact, he was not a bad Creativist. He had a remarkable talent for painting portraits of people screaming, as well as adapting cookware and the Handy Man’s Tool Set into musical instruments.</p>
+<p>Lukko would wear the monstrosity at least once every week. However despite my <a href="https://en.wikipedia.org/wiki/Unexpected_hanging_paradox">best efforts at logic</a>, I was unable to predict which day he would wear the shirt. Due to its multitudinous appendages, the shirt could not be washed, and its stench soon matched its ugliness.</p>
+<p>You must be thinking how unlucky I was to be matched with Lukko. In fact, I discovered that it was hardly due to chance. Rather, our matching was the result of careful calculation! In order to explain, I must first discuss our housing system.</p>
+<h2 id="housing">Housing</h2>
+<p>Director Haus was a tall bearded man whose hat also served as a minimal functioning (but empty) birdhouse. When I visited Philosophocle three weeks before the start of the semester, I inquired about accommodations, and he was kind enough to give me a tour of the Housing Office.</p>
+<p>The Housing Office was the exemplar of industry. The wall of the office was covered in architectural blueprints, which between them mapped out every habitable room in the University. Thumbtacks and paper squares covered the blueprints. But what what drew my attention was the twenty-five students, shuffling papers from large stacks to other large stacks, clipping them together in twos, threes, and fours, and placing them in shelves labeled “certain”, “likely”, “probable”, “only if nothing better”, and “???”. On the blackboard was a gigantic graph drawn from colored chalk with the title “Compatibility”.</p>
+<p>So engrossed were they in their work that none of them looked up as we entered.</p>
+<p>“Who are these people?” I asked.</p>
+<p>Director Haus beamed at me.</p>
+<p>“Meet the Housers. Every paper you see in this room is a survey filled out by one of our current or incoming students. The Housers sift through thousands of self-descriptions to determine the optimal arrangement of students in dorms. As you can see, Dave there at the board is drawing a graph of the compatibility/non-compatibility of all male students who had Woody as their first-choice dorm.</p>
+<p>“This is no mere housing ‘lottery’. This is a housing <em>optimizer</em>. Through statistics, debates, and discussions over late-night tea, we find the globally optimum housing arrangement.”</p>
+<p>“But Director, would it not be more efficient to use a computer? I remember seeing a computer in the Technology Department.”</p>
+<p>Director Haus gave me a stern look. “We cannot remove the human element from housing. A computer program, it is true, will output an optimal matching given a value function. But how can we tell a computer all the values that are important to our <em>human</em> students in finding the perfect roommate? Twenty-five students who understand the intricacies of rooming are much more suited to the task. Who are the people who you most need in order to order to grow? The Housers will find them for you.”</p>
+<p>“But the sheer amount of student-hours…!”</p>
+<p>“Being a Houser is not just an office job, Fron. It is a privilege. Hundreds of students apply to be Housers every year. Besides, students who are Housers gain intimate familiarity with the incoming class. During the first week, Fron, you will be surprised to meet several upperclassman will be able to summarize your biography—provided you fill out the survey, of course.”</p>
+<p>Although I believed that Director Haus’s view on technology was too critical<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>, the Housers’ efforts endeared me. A university who cared so much about its students that upperclassmen would volunteer to find the best roommates for incoming students, and who went about such a trivial task with the utmost precision and rigor!</p>
+<p>When I informed Haus that I had not received the survey, he immediately delivered a copy into my hand. I busied myself the next five minutes in filling it out.</p>
+<p>“But Director Haus, do you match up students by common interests? Wouldn’t this make the living communities too homogeneous?”</p>
+<p>“We have thought of everything,” Haus said, pointing to a question further down the page.</p>
+<blockquote>
+<p>How different would you like your roommate to be from you?</p>
+<p>(Exactly the same) 1 2 3 4 5 (Completely different)</p>
+</blockquote>
+<p>I bubbled in 5 (foolishly).</p>
+<p>The last question was “what other criteria do you have for a roommate, in order of priority?” I did not wish to further burden to the already very busy Housers, so instead checked the box at the bottom, which read,</p>
+<br />
+<form action>
+<input type="checkbox" name="surprise" value="surprse"> <strong>Surprise me!</strong>
+</form>
+<p><br /></p>
+<p>“Excellent!” Director Haus said, “I am always glad to meet someone who has an adventurous taste in roommates.”</p>
+<h2 id="appeal">Appeal</h2>
+<p>On that fateful form, I had not described myself in Uniformist or Creativist terms, or any of the religions of Philosophocle. I wonder, however, if the Housers had already predicted that I would be a Uniformist, and Lukko would be a Creativist. In either case, I now believe the Housing Optimization system to be deeply flawed.</p>
+<p>When I appealed my housing to Director Haus, he invited me into the Housing Office (now empty of students but with its walls still covered in blueprints and thumbtacks) and offered me a cup of tea. Upon finding my housing survey, however, he frowned.</p>
+<p>“You clearly stated a preference for someone completely different,” Director Haus said, “And the Housers have honored this preference.”</p>
+<p>“But I am extremely dissatisfied!”</p>
+<p>“Is this dissatisfaction mutual?”</p>
+<p>“Well…”</p>
+<p>The truth was that Lukko was not at all dissatisfied. “I’m glad for your presence,” Lukko had told me. “Trevisia has told me that the Creativist road is difficult, for there are many who judge and threaten me based on my creations. By your continual challenges towards my creations, I will grow stronger as a Creativist.”</p>
+<p>Director Haus’s eyes wandered to the blueprint of Pondside. My thumbtack was gray, and Lukko’s thumbtack was red.</p>
+<p>“You will do well to learn from Lukko,” Haus said severely, as if reading my thoughts, “At Philosophocle, we do not optimize happiess. If we desired a happy life, we would not spend our lives studying obscure subjects at a university. If we did, we would move to Las Vegas<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a> or Barbados. We are here, Fron, because we desire intellectual growth.”</p>
+<p>Our conversation was at an end. If I had talked with Haus after taking Introduction to Debate, I would have a comeback. But alas, I was an ignorant freshman. For a moment, I imagined going berserk, tearing down the blueprints on the walls and screaming, “we are humans, not thumbtacks!” As it was, I finished my tea and meekly left the Housing Office, leaving Director Haus to his architectural solitude. For the next year, until the next Housing Optimization, the Uniformists would be my primary source of solace.</p>
+<section class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Said Director Haus, “It is true that Computer Science is taking over many universities and diverting millions of dollars, but we at Philosophocle believe that <em>Human</em> Science is more important.”<a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p>A city in the United States known for a large population of Sexists.<a href="#fnref2">↩</a></p></li>
+</ol>
+</section>
+
+  </div>
+
+    
+
+    <!-- Previous/next post-->
+    <div>
+    
+    <a href="/posts/agnostic.html" style="float:left;">Previous post</a>
+    
+    
+    </div>
+    <br>
+
+    <!-- Extension : Sharing buttons @ www.sharethis.com -->
+    <span class='st_facebook_large' displayText='Facebook'></span>
+    <span class='st_twitter_large' displayText='Tweet'></span>
+    <span class='st_googleplus_large' displayText='Google +'></span>
+    <span class='st_reddit_large' displayText='Reddit'></span>
+    <span class='st__large' displayText=''></span>
+
+    <div id="disqus_thread"></div>
+    
+
+
+  
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  </div>
+  
+</div>
+]]></summary>
+</entry>
+<entry>
     <title>Agnostic</title>
     <link href="http://holdenlee.github.io/philosophocle/posts/agnostic.html" />
     <id>http://holdenlee.github.io/philosophocle/posts/agnostic.html</id>
@@ -67,6 +189,8 @@
     
     <a href="/posts/how-i-became-a-uniformist.html" style="float:left;">Previous post</a>
     
+    
+    <a href="/posts/housing-optimization.html" style="float:right; text-align: right;">Next post</a>
     
     </div>
     <br>
@@ -851,120 +975,6 @@
     
     
     <a href="/posts/re-PHSS.html" style="float:right; text-align: right;">Next post</a>
-    
-    </div>
-    <br>
-
-    <!-- Extension : Sharing buttons @ www.sharethis.com -->
-    <span class='st_facebook_large' displayText='Facebook'></span>
-    <span class='st_twitter_large' displayText='Tweet'></span>
-    <span class='st_googleplus_large' displayText='Google +'></span>
-    <span class='st_reddit_large' displayText='Reddit'></span>
-    <span class='st__large' displayText=''></span>
-
-    <div id="disqus_thread"></div>
-    
-
-
-  
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-  </div>
-  
-</div>
-]]></summary>
-</entry>
-<entry>
-    <title>Snowmelt</title>
-    <link href="http://holdenlee.github.io/philosophocle/posts/snowmelt.html" />
-    <id>http://holdenlee.github.io/philosophocle/posts/snowmelt.html</id>
-    <published>2016-03-08T00:00:00Z</published>
-    <updated>2016-03-08T00:00:00Z</updated>
-    <summary type="html"><![CDATA[
-<div class="container">
-  <div id="content">
-    <div class="page header">
-      <h1>Snowmelt</h1>
-    </div>
-    <div class="info">
-      
-       
-        <p class="subs">by Agnes
-	</p>
-      
-       
-        <p class="subs">on 2016-03-08
-	</p>
-      
-    </div>
-    
-  </div>
-  <!--/div-->
-
-  <hr>
-
-  
-
-  <div class="blog-main">
-    <p>Before the snowmelt, we gathered the snowmen and snowwomen onto trolleys that snaked through the gently sloping paths of Philosophocle. <!--more--> We started from the highest point - the observatory and meteorological station (where the blackboard recorded gradually rising temperatures over the next week) - and then onwards past the library, the Pinnacle of Philosophy, the mathematics building, and the rest of the departments, detouring to drive through Philosophocle’s many gardens. The gym, dining halls, and residential halls came last.<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a></p>
-<p>The snowpeople builders waited patiently. They had no desire to be like John from last year, who, eschewing trolleys, had tripped when he tried to carry his snowwoman himself. His snowwoman immediately had broken into three and each part had rolled down the hill separately.</p>
-<p>When the trolley came, the snowpeople builders hoisted their buildees onto the chilled planks. Sometimes the snowpeople’s bottoms were stuck to the snow, and had to be gingerly shoveled out. Ten people assisted with pulling and pushing each trolley. Perhaps this was more than necessary, but it made sure that the trolley did not accelerate too fast.</p>
-<p>Many a snowperson had been abandoned by its builder. We moved them ourselves. Some of them had already sickened, their formerly round heads and bodies turned concave. Rhina patted new snow onto them and reaffixed their appendages in the right locations. Tom, who had a supply of branches, pine cones, acorns, raisins, carrots, celery, plum tomatoes, chocolates, and spring onions handy, provided snowpeople with missing body parts.</p>
-<p>It is quite rude of the creators to not furnish their createes with mouths or arms. It is also rude of the creators to not furnish their createes with names. Fortunately, Trevisia, a Creativist, can spontaneously generate names that have never been used, like Windorrilyna and Asnozzonoso. She is not very good at remembering them, but fortunately we have Albern, who jotted them down diligently onto the roster.</p>
-<p>Trevisia was horrified by the row of Uniformed Snowmen in front of Campus Police. The Uniformists made them, of course. Thirty Uniformists, in their identical U sweaters, in groups of three, made ten snowmen. They constructed the snowmen to specifications: bottom ball 40 centimeters, middle ball 35 centimeters, top ball 30 centimeters. They all wore identical berets and saluted with branches bent at identical angles. Their belts contained holsters, each with three standard-issue 8-centimeter snowballs. The ten snowmen would occupy a trolley by themselves; they won’t associate with the rabble. Each snowman was carried by three Uniformists. They aren’t necessarily the same Uniformists who made them, because of course, Uniformists are interchangeable, as are Uniformed Snowmen.</p>
-<p>“Names?” Trevisia asked.</p>
-<p>“The Uniformed,” said Un, the leader of the Uniformists.</p>
-<p>“I mean, their <em>individual names</em>,” Trevisia said, dangerously.</p>
-<p>“Where one goes, all go,” Un said, as his Uniformists took up their places around the trolley. “No individuality is required.”</p>
-<p>“Snowpeople without names are not allowed in the Shades.”</p>
-<p>“Trevisia!” I hissed. “Drop it!”</p>
-<p>The Uniformists looked restless. With so many vulnerable snowmen around, we did not want to risk a fight.</p>
-<p>Trevisia took off her rainbow scarf and rushed towards the Uniformed trolley. Un moved to stop her but she threw and the scarf landed around one of the uniformed snowman, distinguishing him from the other nine. It was a grave insult. One of the Unis yanked it off. The other Unis reached for their snowmen’s ammunition. They aimed at Trevisia. In panic, Trevisia jumped onto our trolley, and it started moving forward. The Unis fired. Several hit Trevisia on her back, while several others missed and hit a snowman on our cart, toppling its head.</p>
-<p>“Stop!” Un yelled. “This is not the Uniformist way!” Tom and Albern from our group picked up snow to retaliate.</p>
-<p>“The cart!” I yelled.</p>
-<p>It was veering away from the path, downhill. We ran to catch it. It took all of us to stop the cart. Another head toppled from the sudden deceleration.</p>
-<p>Trevisia was in tears. She didn’t speak, just violently brushed snow off her coat. One of the Uniformists dangled her scarf in front of her.</p>
-<p>“We are sorry, madam. It won’t happen again.”</p>
-<p>Trevisia snatched her scarf back and dries her eyes with it. The twenty-nine other Unis come too.</p>
-<p>“How may we assist in rebuilding your snowmen?”</p>
-<p>“They’re not snow<em>men</em>! They’re snowmen-and-<em>women</em>! Like this one you killed!” She pointed at a head grinning at the sky. “Don’t put your dirty hands on our snowpeople!”</p>
-<p>The Uniformists looked at Un, unsure.</p>
-<p>“Let’s go, Unis.”</p>
-<p>They took up positions at their cart and wheeled it away.</p>
-<hr>
-<p>Rhina and Tom repaired our snowpeople, and we made it the rest of the way to the Shades without incident. Last year, we had been ambushed in front of Peterhall by students throwing snowballs from the roof. One of them had hit the snow-giraffe, whose neck had taken Rhina a whole hour to make. We identified the culprit, and demanded that he explain himself.</p>
-<p>“Impermanence,” he had said. “We wanted to show that the effort of preserving snowpeople is futile. Snowpeople melt, whether they are alone or together.”<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a> We forced him to sit outside for an entire day in the Shades watching the snowmen melt, in order to appreciate impermanence. The penance had a profound effect on him, and he became very quiet after that, with a furtive look as if haunted by ghosts, the same kind of look people got a few months after joining the Poly House.</p>
-<p>When we arrived at the Shades, the Uniformed Snowmen had already taken their positions in a semicircle in front of the courtyard. We set up the rest of the snowpeople inside the courtyard. As more snowpeople came in, we arranged them in groups facing each other, like conversational groups at <a href="the-street.html">Melli’s Flows</a>. We gave them bottles of Iced Tea that Lisa had collected from the Electric Eel (she’s somewhat of an addict). The only ones who didn’t join in the merry party atmosphere were the Uniformed, looking out at the sun.</p>
-<p>Why do we do this? Ten years ago, the students had found their snowpeople disappearing from where they were built. They appeared at the Shades: a courtyard that always in shadow from the slanted winter sun. For four years this migration was continued by a mysterious altruist who was never discovered. After that, the student graduated (presumably), but the rest of the student body has carried on the tradition. Each year before the weather warms, we carry the snowmen to the Shades, where they melt together, rather than alone. During this period, at any time during the day, it is likely that at least one student will be watching the snowpeople’s silent soiree. It seems to be a metaphor to life: even if we put on a veneer of merrymaking like the snowpeople do, we are all slowly melting. Or the converse: since we are all slowly melting, we might as well merrymake together.</p>
-<hr>
-<p>Early the next morning, strolling past the Shades, I found that the Uniformed Snowmen had all been distinguished! One had a pine-cone badge, another had a garland of leaves, another had acorn buttons, and yet another had dried cranberry nipples! Anxiety gripped my throat: I had to remove them before the Uniformed saw them - surely they would take revenge on Trevisia for defacing their watchmen! I hurried over after looking furtively around to see that no one else was there, and then started to remove the ornaments. Perhaps if one of the Uniformed arrived, they would mistakenly think I was the culprit, but it was be a chance that I had to take.</p>
-<p>“In the name of Santa-fucking-Claus, stop!” someone shouted. I turned around to see Lisa running up. “This is shit-tastic, what the dammit are you doing! Oh bitches, I think I screwed up word usage again,” she made a face. “Why are you thieving the watchmen?”</p>
-<p>I explained what had happened.</p>
-<p>“Don’t you worry, homey-boy, the Uniformists will have to go through me before they get to Trev! Now be a good elf and put those back, won’t you?”</p>
-<p>I was relieved to be relieved of my vigilantist responsibility. Lisa walked around the Uniformed Snowmen furrowing her brows critically as if they were sculptures at an art museum, while I skittered off.</p>
-<p>I didn’t come by the Shades until the evening. Remarkably enough, the baubles stayed where they were, although the nippled snowman gained a few more… indecencies. Lisa had worked her magic. Still, over the next week, I noticed that Trevisia darted past the Shades without looking at the snowmen, as if afraid of being caught looking.</p>
-<hr>
-<p>Already the snowpeople have crooked smiles and missing eyes. The squirrels and birds feast on them.<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a></p>
-<p>But perhaps the Uniformists will have the last laugh. Despite all our fancy decorations, the snowmen will soon start to become indistinguishable in their misery (we are all alike in death). The Uniformed will be first to go, their position being most vulnerable to the sun. The rest will soon follow.</p>
-<section class="footnotes">
-<hr />
-<ol>
-<li id="fn1"><p>The pursuits of the body are naturally lower than those of the mind. Besides, walking uphill to class every morning reminds us that we are still on the lower rungs of the ladder of knowledge, and encourages us to wake up a few minutes earlier.<a href="#fnref1">↩</a></p></li>
-<li id="fn2"><p>“Hell yeah you did,” Lisa said, “You just thought it was fun to throw snowballs at vulnerable snowpeople.”<a href="#fnref2">↩</a></p></li>
-<li id="fn3"><p>I have pointed out to my colleagues that they are Feeding the Squirrels when they do this, but it seems that decorating snowpeople with edibles is a tradition that is beyond my ken to overturn.<a href="#fnref3">↩</a></p></li>
-</ol>
-</section>
-
-  </div>
-
-    
-
-    <!-- Previous/next post-->
-    <div>
-    
-    <a href="/posts/these-bachelor-monks.html" style="float:left;">Previous post</a>
-    
-    
-    <a href="/posts/these-bachelor-monks-ii.html" style="float:right; text-align: right;">Next post</a>
     
     </div>
     <br>
