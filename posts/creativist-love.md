@@ -1,5 +1,5 @@
 ---
-title: Creativism and love
+title: Creativist love
 published: 2016-04-23
 modified: 2016-04-23
 author: Trevisia
