@@ -3,7 +3,7 @@ title: Creativist love
 published: 2016-04-23
 modified: 2016-04-23
 author: Trevisia
-characters: Trevisia, Rudii, Tomuu
+characters: Trevisia, Rudii, Timoo
 ---
 
 I'm so happy for Rudii---she has finally fallen in love at first sight! Or as we like to say, "instant concoction"![^f]
@@ -100,7 +100,7 @@ Yesterday, at Melli's Flows, when Rudii found an ant on the napkin holder, inste
 
 "The best gift we can give the squirrels is not food, but art. In fact, I've just been chaosing on how to make an artistic playground for the squirrels..."
 
-Soon they were conversing madly. Tomuu had a habit of drawing a box in the air whenever he voiced a thought, and Rudii would take the invisible box, open it, and show her reactions through exaggerated facial expressions. Tomuu was incredibly well-read but not well-created[^f2], and Rudii helped him "think outside the box" by taking a book from his bag, opening to a random page and reading a sentence, and asking him to continue the story. They shared their impressions of everyone within their line of sight, and found that Tomuu's impressions were more colorful, and Rudii's more accurate.
+Soon they were conversing madly. Timoo had a habit of drawing a box in the air whenever he voiced a thought, and Rudii would take the invisible box, open it, and show her reactions through exaggerated facial expressions. Timoo was incredibly well-read but not well-created[^f2], and Rudii helped him "think outside the box" by taking a book from his bag, opening to a random page and reading a sentence, and asking him to continue the story. They shared their impressions of everyone within their line of sight, and found that Timoo's impressions were more colorful, and Rudii's more accurate.
 
 [^f2]: the last time he drew a picture was in tenth grade, and despite all the books he'd read, he'd never written a single one himself.
 
@@ -120,9 +120,9 @@ The whole table of Creativists expressed their happiness (by snapping fingers, c
 
 "Don't worry, Trevisia, we'll come back to wash our mugs!"
 
-I wanted to follow, but it was my shift at the Scoop! I imagined them huddling at the windows of Melli's Flows, watching; the bouncer coming out to tell them, "Are you in or out?"; Creativists influxing into the cafe, spicing up the conversation as they flit between tables, all the time secretly shooting glances at Rudii and her fellow concocter and slipping them creations like surreally painted hearts, or two stuffed squirrels hugging each other (the Creativists provided the greatest entertainment, as Tomuu and Rudii were currently in their game of trying to judge everyone in sight, and everything she said was heard from some Creativist).
+I wanted to follow, but it was my shift at the Scoop! I imagined them huddling at the windows of Melli's Flows, watching; the bouncer coming out to tell them, "Are you in or out?"; Creativists influxing into the cafe, spicing up the conversation as they flit between tables, all the time secretly shooting glances at Rudii and her fellow concocter and slipping them creations like surreally painted hearts, or two stuffed squirrels hugging each other (the Creativists provided the greatest entertainment, as Timoo and Rudii were currently in their game of trying to judge everyone in sight, and everything she said was heard from some Creativist).
 
-I did not completely miss out, though. Later Rudii and Tomuu came to the Scoop, where I had the honor of feeding them many fresh cookies I had concocted from a perfect blend of flour, vanilla, cinnamon, oatmeal, butter, raisins, and love. Rudii, who normally ate one slowly and delicately, instead ate five in quick succession.
+I did not completely miss out, though. Later Rudii and Timoo came to the Scoop, where I had the honor of feeding them many fresh cookies I had concocted from a perfect blend of flour, vanilla, cinnamon, oatmeal, butter, raisins, and love. Rudii, who normally ate one slowly and delicately, instead ate five in quick succession.
 
 "Was it from the Creativism?" I asked Rudii when the rest of the Creativists had left.
 
