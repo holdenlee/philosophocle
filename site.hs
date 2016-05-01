@@ -93,7 +93,7 @@ main = hakyll $ do
             getResourceBody
                 >>= applyAsTemplate indexCtx
 --                >>= loadAndApplyTemplate "templates/post.html" indexCtx
-                >>= loadAndApplyTemplate "templates/default.html" indexCtx
+                >>= loadAndApplyTemplate "templates/main.html" indexCtx
                 >>= relativizeUrls
 
     --ARCHIVE
