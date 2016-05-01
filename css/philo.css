@@ -10,6 +10,8 @@
     font-family: "Trajan Pro", Georgia, serif;
     font-size: 80px;
     font-size: 7vw;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 .banner h2{
@@ -17,6 +19,8 @@
     font-size: 30px;
     font-size: 3vw;
     font-style: italic;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 .subs {
