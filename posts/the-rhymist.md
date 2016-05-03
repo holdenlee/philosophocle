@@ -46,8 +46,6 @@ Our chewing has gotten out of sync. Panicking Unis are eating their foods out of
 
 She looks at me. "You pretend to hide behind an unremarkable life, but really you're hiding from your internal strife."
 
-<!--I open my mouth again, but don't know what to say. She reminds me of jellyfish girl from PHSS, who said things just because they were beautiful.-->
-
 The girl is making sounds with her mouth. She puffs up her cheeks and expels air repeatedly. She snaps her fingers with her non-taco holding hand. We look at her and at each other in confusion: is this some derisory Creativist gesture? The blasts of air and regular snaps, however, draw us in. Listening to it, we again find a rhythm with our chewing. Various Unis speak up.
 
 "You have no place within our bunch. Please let us eat our lunch."
@@ -61,20 +59,6 @@ The girl is making sounds with her mouth. She puffs up her cheeks and expels air
 "Fron, she's turning us into Creativists! We've completely deviated from the usual scripts! We're coming up with new rhymes every time we open our mouth to speak, so everyone, shut your mouths and turn the other cheek!"
 
 I realize that indeed, she is keeping a beat. Our syllables are falling right into her beats, one-to-one, in a way reminiscent of how the Philosophocle Rights and Responsibilities booklet fall into our mailboxes at the beginning of each semester. Unis are drumming on the tables with their fingers, spooning peas every other beat, and opening and closing their mouths like fish.
-
-<!--
-"Stop! We're talking poetry. She's making us into Creativists! Every word we say is Creativist! We must get back the the Uniformist script.
-
-"I do feel a little unrest. But I think Uniformism is for the best."
-
-I notice you didn't get any peas. Have some of mine, if you please.
-
-I saw a vision of what could be. In our Uniformist guide to conversation, every line replaced by a rhyme, right down to the tee!
-
-
-We, he corrected. We do not know what went over us.
-
--->
 
 A Uniformist stands up. We all stare at him. By standing up he has distinguished himself.
 
@@ -115,7 +99,5 @@ We take out our pocket-sized Guides to Uniformisms. All of us---even the ones wh
 As we read the Uniformization, I don't process the words at all. They are dull and dreary. I feel I am going through a bleary pantomime. I can't help but imagine what will happen if every sentences were replaced by rhyme.
 
 [^f1]: The Uniformization, which helps us return to a uniform state after we have been disturbed.
-
-<!--I had read them too many times-->
 
 There is something beautiful about salad-ballad girl, which none of the other Uniformists understand. Something momentuous, I know, will happen tonight. I do not know what, but I know that I cannot allow Un to turn her into a Uniformist.
