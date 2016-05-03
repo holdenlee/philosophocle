@@ -14,7 +14,7 @@ A petite girl with a large book of *Classical Ballads* sits down in the empty ch
 
 We all look at her, unsure how to respond. I wait for another to speak up, but of course, we are all waiting for another to speak up, so none of us do.
 
-"Heya," she says brightly. "On the surface all you look the same/ Makes me wonder what are y'all's names?"
+"Heya," she says brightly. "On the surface you look the same/ Makes me wonder what are y'all's names?"
 
 <!--more-->
 
