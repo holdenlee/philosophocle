@@ -6,6 +6,8 @@ author: Fron
 characters: Fron, Un, Rhymist
 ---
 
+(Monday)
+
 There is a seat missing among us today. One of the regular Unis is sick and cannot come.
 
 A petite girl with a large book of *Classical Ballads* sits down in the empty chair. She has a taco salad. None of us got a taco salad, because unlike all the other entrees which are eaten with spoon and fork, it is too hands-on. Eating a taco salad would distinguish us from others. She has a side of curried cauliflower, rather than the peppered peas that the rest of us have. She is wearing a blue shirt, not a U-shirt.
@@ -82,9 +84,9 @@ And then she is gone.
 
 "I'm sorry. I---I---I didn't know what came over me," says the boy who had taken off his U-shirt. He hurriedly put it back on.
 
-"Un, we must not go to the Scoop tonight," someone says. "I don't know what kind of demonic powers that girl has."
+"Un, we must not go to the Scoop tomorrow," someone says. "I don't know what kind of demonic powers that girl has."
 
-"We certainly *will* meet her tonight for tea," Un said, his face dark with rage and his fists clenched.
+"We certainly *will* meet her tomorrow for tea," Un said, his face dark with rage and his fists clenched.
 
 Un had fought tirelessly for "Uniformist Day" at the Scoop. He had written letters to the Director of Religious Life, the Student Activities Board, the Student Judicial Board, the Board Against Discrimination and For Tolerance, and even appealed to the President. Nothing is going to keep him from his rightful place at the Scoop today.
 
@@ -100,4 +102,4 @@ As we read the Uniformization, I don't process the words at all. They are dull a
 
 [^f1]: The Uniformization, which helps us return to a uniform state after we have been disturbed.
 
-There is something beautiful about salad-ballad girl, which none of the other Uniformists understand. Something momentuous, I know, will happen tonight. I do not know what, but I know that I cannot allow Un to turn her into a Uniformist.
+There is something beautiful about salad-ballad girl, which none of the other Uniformists understand. Something momentuous, I know, will happen tomorrow. I do not know what, but I know that I cannot allow Un to turn her into a Uniformist.
