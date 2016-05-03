@@ -28,7 +28,7 @@ She puts down *Classical Ballads*, and proceeds to crunch into her taco salad.
 
 "John, don't rhyme with her, that'll only encourage the cur," another pipes up, then colors, realizing he has said John's name out loud, which is, in fact, quite taboo.
 
-"Are you a Creativist?" another Uni demands. "You're not welcome at our table!"
+"Are you a Creativist?" another Uni demands. "You're not welcome at our [table](uniformist-lunch-table.html)!"
 
 "It makes me sad to see a group that's so unstable/ when someone new comes sitting down, she's quickly slapped an enemy's label!"
 
@@ -88,7 +88,7 @@ And then she is gone.
 
 "We certainly *will* meet her tomorrow for tea," Un said, his face dark with rage and his fists clenched.
 
-Un had fought tirelessly for "Uniformist Day" at the Scoop. He had written letters to the Director of Religious Life, the Student Activities Board, the Student Judicial Board, the Board Against Discrimination and For Tolerance, and even appealed to the President. Nothing is going to keep him from his rightful place at the Scoop today.
+Un had fought tirelessly for ["Uniformist Day" at the Scoop](emergency-chaosing.html). He had written letters to the Director of Religious Life, the Student Activities Board, the Student Judicial Board, the Board Against Discrimination and For Tolerance, and even appealed to the President. Nothing is going to keep him from his rightful place at the Scoop today.
 
 "*All of us*. We will teach her that *no one* messes with the Uniformists. When we are done with her, I promise you, she will be a Uniformist."
 
