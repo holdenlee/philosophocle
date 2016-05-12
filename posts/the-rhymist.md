@@ -88,7 +88,7 @@ And then she is gone.
 
 "We certainly *will* meet her tomorrow for tea," Un said, his face dark with rage and his fists clenched.
 
-Un had fought tirelessly for ["Uniformist Day" at the Scoop](emergency-chaosing.html). He had written letters to the Director of Religious Life, the Student Activities Board, the Student Judicial Board, the Board Against Discrimination and For Tolerance, and even appealed to the President. Nothing is going to keep him from his rightful place at the Scoop today.
+Un had fought tirelessly for ["Uniformist Day" at the Scoop](emergency-chaosing.html). He had written letters to the Director of Religious Life, the Student Activities Board, the Student Judicial Board, the Board Against Discrimination and For Tolerance, and even appealed to the President. Nothing is going to keep him from his rightful place at the Scoop tomorrow.
 
 "*All of us*. We will teach her that *no one* messes with the Uniformists. When we are done with her, I promise you, she will be a Uniformist."
 
