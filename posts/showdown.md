@@ -6,9 +6,11 @@ author: Fron
 characters: Fron, Un, Rhymist
 ---
 
-<!-- It has been more than a week since the showdown at the Scoop. The Scoop is still closed, and the Rhymist is still nowhere to be seen.
+It has been more than a week since the showdown at the Scoop. The Scoop is still closed, and the Rhymist is still nowhere to be seen.
 
-What happened? I will explain. -->
+What happened? I will explain.
+
+<!--more-->
 
 #1 We enter the Scoop
 
@@ -70,7 +72,7 @@ He stood up, and thirty Uniformists pushed back their chairs and stood up. Alarm
 
 We fanned out in a circle around her. Each one of us had a small U-shirt in our hands.
 
-"Join us or leave," Un said.
+"Join us or leave," Un said, moving towards her with the U-shirt held in front of him.
 
 "Let me leave in peace," she said, "I will depart to Deepsea Teas."
 
@@ -82,15 +84,15 @@ Was she "jellyfish girl"?
 
 The thought washed away my morning Uniformization.
 
-I remembered Lisa, the girl I had talked to so earnestly at lunch one day, had tricked me into thinking she had been the 3am announcer for [PHSS](PHSS.html), even though her voice was harsh rather than mellifluous, and she was dismissive, rather than appreciative, of life's many mysteries. Thanks, however, to [Junali's reporting](re-PHSS.html) I had learned of her trickery from this very blog, and learned also that the radio announcer's real name is Pearl. 
+I remembered how Lisa, the girl I had talked to so earnestly at lunch one day, had tricked me into thinking she had been the 3am announcer for [PHSS](PHSS.html), even though her voice was harsh rather than mellifluous, and she was dismissive, rather than appreciative, of life's many mysteries. Thanks, however, to [Junali's reporting](re-PHSS.html) I had learned of her trickery from this very blog, and learned also that the radio announcer's real name is Pearl. 
 
 Just as she reached to door, I broke the Uniformist ranks.
 
-"Before you flee, beautiful girl, tell me---your name by any chance Pearl?"
+"Before you flee, beautiful girl, tell me---is your name Pearl?"
 
 She stopped.
 
-"That is a beautiful name---but it is not for me to claim."
+"That is a beautiful name---but it is not mine to claim."
 
 I did not lose hope. After all, Lisa could have lied in the blog post, to throw me off further! The rhyming girl had a quality of speech I have seen in few Philosophoclers. Many speak as if reading a memorized script, or with their tongues like automatic animals disjointed from their brains. Few speak as if they are following a beautiful road inside their head that only they can see.
 
@@ -116,64 +118,105 @@ A silence followed. Then, to my surprise, several other Uniformists stepped forw
 
 "Please don't mind Fron, he's a little obsessed. But with your presence, we are blessed!"
 
-<!--"I am tired of boring Uniformist words, tell me how to play some rhyming chords! Wait, no. How to be rhyming lord!-->
+#4 A suspicious group arrives
 
-<!--mysterious
-question
-explanation
-radio
-soundwaves
-airwaves
-radio-cum-alarm-clock-->
+Just then, the door opened. Fifteen people entered, all clad in U-shirts, and stood behind red-bread girl. However, the U-shirts all have a blue "2" next to the U, so that they read "U2".
 
-#4 Creativists arrive
+"How come you are U-shirted," I asked, "But your shirts look strangely perverted?"
 
-(Take off U-shirts?)
+*"That's because we were tired of Uniformism---so we created a schism!"*
 
-Several people had walked into the Scoop, clad also in red.
-
-"If you want to learn to rhyme, join us and you'll have a good time!" said a boy.
-
-"You can rhyme to your heart's content, and all your time will be well spent!"
-
-"Rhyming is just the start of many colorful ways to live that we will impart."
-
-"Please take a brochure; see all the benefits that you can procure!"
-
-<!-- phrases, phases, raises. "You won't have to repeat the same old phrases, you'll sing more types of praises!"-->
+*"We're not Uniformists---we're Rhymists!"*
 
 "I didn't know you had a group," said one of the Uniformists, "can we too be part of the loop?"
 
-Then I saw two faces among the group that I realized. "Wait! Don't take the bait! These people are not so great. They are Creativists!"
+*"Yes, come with us to rhyme, and you'll have a good time!"*
 
-I pointed at Lukko. "My former roommate, who I have come to hate. Monstrous things he does create, which he uses to intimidate and infuriate!"
+*"Please take a brochure; see all the benefits that you can procure!"*
+
+*"Leave the Uniformist confines---we'll give you some fresh new lines!"*
+
+*"Rhyme to your heart's content, your time will be well spent!"*
+
+*"Rhyming is just the start---many more colorful ways to live we will impart!"*
+
+Several of the Uniformists started to walk away with the "Rhymists."
+
+Then I saw two faces among the group that I realized. "**Wait! Don't take the bait! These people are not so great. They are Creativists!**"
+
+I pointed at Lukko. "My former roommate, who [I have come to hate](housing-optimization.html). Monstrous things he does create, which he uses to intimidate and infuriate!"
 
 I pointed at Lisa. "And that is Lisa who one day pretended to be, the girl who so captured my heart. But it was just a dirty trick played on me, lies perpetuated for the sake of art!"
 
 "You're not a Rhymist," a Uni said to red-bread girl, "You're a two-timist!"
 
-(One of the Creativists spoke up, "Lukko and Lisa, is that true? This isn't what Creativists supposed to do!")
+*(One of the Creativists spoke up, "Lukko and Lisa, is that true? This isn't what Creativists supposed to do!")*
 
 "We won't join you!" another Uni yelled.
 
-[Rap battle?]
+We back away from the Creativists.
 
-I tried to compromise. "Please, we will follow you wherever you lead. Just don't include Lisa and Lukko, I do plead."
+*"What's up! Argh, I mean, what a fuckup! I should have put on some makeup!" Lisa said.*
 
-"I don't believe in exclusivity. Anyone who rhymes is a friend to me."
+*"Well, now that our cover is gone, we might as well have some fun!"*
 
-"But some people's rhymes are full of spite. They speak of wanting to fight!"
+Lukko took off his U2-shirt, which had been covering [my monstrosity](housing-optimization.html). All the other Creativists followed suit, and we were accosted by an explosion of color, glitter, glitter glue, metal hooks, plastic eyes, pipe cleaners, bubble-letters, random quotes, beads, buttons, paint, felt, sew-on-pockets, cardboard, cotton balls, flower petals, acorn caps, last autumn's leaves, feathers dropped from birds in flight, and coconut shells.
 
-"If they won't become Creativists of their own free will, then colors must spill!" said Lukko.
+Lukko unpacked several canisters of paints from his bag.
 
-# 5 Chaosing
+*"If they won't become Creativists of their own free will, then colors must spill!"*
 
-He produced several bags of colored powder from his pack. Creativists scooped up handfuls and charged the Uniformists. They ran up to the Uniformists and dabbed the colors onto Uniformist faces, hair, necks, and shirts. Uniformists with rainbow-colored faces chased after the Creativists, who defended themselves with drumsticks and tambourines. The Uniformists chased after their aggressors. Chairs overturned, mugs of hot tea flew through the air.
+# 5 Hell breaks loose
+
+Creativists scooped up handfuls of color and charged us. They ran up to Uniformists and dabbed the colors onto Uniformist faces, hair, necks, and shirts. Uniformists with rainbow-colored faces chased after the Creativists, who defended themselves with drumsticks and tambourines. Chairs overturned. Hot tea sloshed through the air.
 
 One of the Scoopers was busy shooting photographs. (They would make it into the Wednesday issue of the Philosophocle.)
 
-A few of us stood by the Rhymist.
+I quickly hid below a table, and found that I had been joined by several Uniformists and Creativists alike, as well as the single true Rhymist.
 
-"This is causing me a lot of stress. Can you tell your Creativists to stop this mess?" said a boy I later learned was Timoo.
+*"This is causing me a lot of stress. Can you tell your Creativists to stop this mess?"* said a boy I later learned was Timoo.
 
-"Stop! War is destructive, not creative!" said the girl holding his hand, who I later learned was Rudii, but one listened to her.
+*"Stop! War is destructive, not creative!"* said the girl holding his hand, who I later learned was Rudii.
+
+"I wanted everyone to have fun with rhyme," the Rhymist said sadly, shaking her head. "But all I did was cause tons of crime."
+
+"It's not your fault," I said. "Campus security will come, and charge the guilty with assault."
+
+I looked around at the people gathered under the table. There were Uniformists and Creativists alike.
+
+"Let them fight their petty rivalry," I said, "We'll start our own philosophy. Will you lead us, oh rhyming princess---after, of course, we make our egress?"
+
+The Rhymist put down her cup and bread, and smoothed her shirt of red. She stood up and walked forwards.
+
+"That's the wrong way!" Rudii yelled. "That's into the fray!"
+
+"I must remedy what I started," she said in a faraway voice, "For Moses, the waters have parted." She walked into the melee.
+
+We lost sight of her.
+
+**"I come in the name of peace. Let all hostilities cease!"**
+
+"Shut your beaks, the Rhymist speaks!"
+
+"The Rhymist is a two-timist!"
+
+**"Stop fighting head to head, let's play a word game instead!"**
+
+"Watch where you're throwing that color!"
+
+"Don't holler!"
+
+"Everyone, stop! An unarmed Rhymist's in our midst, we must desist!"
+
+Uniformists and Creativists stopped. Raised fists were dropped.
+
+We breathed a sigh of relief.
+
+"Where is the Rhymist? *Where is the Rhymist*?"
+
+"Rhymist, we have stopped. Please speak to us!"
+
+We strained our ears, but did not hear a single line.
+
+The door burst open. Campus security had arrive. "Everyone out," a policeman said. "The Scoop is now closed."
+
