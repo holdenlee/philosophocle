@@ -54,14 +54,6 @@ She pulled up a stool (rather than a chair) beside Un and put her bug-mug down.
 
 "You aren't the only person who has a say," she said, "I have a right to stay, unless everyone here votes nay."
 
-No one dared look at her. After the previous day, no one dared open eir mouth, lest ey rhyme.
-
-"It's clear that you are not wanted here," Un said.
-
-<!--, and then looked over the rest of us, many of whom eagerly hung on to her words. "I have a right to stay, unless everyone here votes nay."-->
-
-TODO: Do people join her, or are they all against her?
-
 Un snatched the girl's mug and took a sip. We looked at him in surprise. 
 
 "Aha! I know it!" Un said, "The Scoopers gave you cold tea!"
@@ -74,27 +66,29 @@ In a smooth motion, the girl took Un's cup and drank from it.
 
 Un's face turned red.
 
-Un responded. "Uniformists, we must unite. Seldom do I make a call to fight. But together we must remove this blight!" 
+"Initiate Operation Uniformization," he commanded.
 
-He stood up. The other Uniformists followed. 
+Thirty Uniformists pushed back their chairs and stood up. Alarmed, the girl in red took her slice of bread and Un's cup, got up, and backed away.
 
-<!--"But doesn't this contradict our peaceful ways? The Scoop is a shared space," spoke up one Uniformist.
+We fanned out in a circle around her. Each one of us had a small U-shirt in our hands.
 
-"Do I hear this right?" Un said, "You support this distinguishing girl from the rest of the group? I declare you no longer a Uniformist!"-->
-
-The girl in red took her slice of bread and Un's cup and backed away. I looked around at the stony-faced Uniformists. Was no one going to support her? But yesterday several Uniformists had; where were they now?
-
-<!-- the scoop is not so free. I will retreat to Deepsea teas-->
-
-"Wait, doesn't this contradict our peaceful ways?" I said, "The Scoop is a shared space."
+"Please leave me in peace," she said, "I will depart to Deepsea Teas."
 
 #3 Heart-to-Heart
 
-Then a thought struck me. What if she were "jellyfish girl"? I now know that Lisa, the girl I had talked to so earnestly at lunch one day, had [tricked me](re-PHSS.html) into thinking she had been the 3am announcer for [PHSS](PHSS.html), even though her voice was harsh rather than mellifluous, and she was dismissive, rather than appreciative, of life's many mysteries. Thanks, however, to Junali's reporting I had learned of her trickery from this very blog, and learned also that the radio announcer's real name is Pearl. Alas, I have no other information.
+*Deepsea Teas*? That was the cafe with booths separated by fish tanks of deep-sea creatures.
+
+Was she "jellyfish girl"?
+
+The thought washed away my morning Uniformization.
+
+I remembered Lisa, the girl I had talked to so earnestly at lunch one day, had tricked me into thinking she had been the 3am announcer for [PHSS](PHSS.html), even though her voice was harsh rather than mellifluous, and she was dismissive, rather than appreciative, of life's many mysteries. Thanks, however, to [Junali's reporting](re-PHSS.html) I had learned of her trickery from this very blog, and learned also that the radio announcer's real name is Pearl. Alas, I have no other information.
+
+I stepped in between Un and the Rhymist and knelt down.
 
 "Pardon my question, beautiful girl, but is your name by any chance Pearl?"
 
-"That is a beautiful name---but it is not mine to claim."
+"That is a beautiful name---but it is not for me to claim."
 
 I did not lose hope. After all, Lisa could have lied in the blog post, to throw me off further! The rhyming girl had a quality of speech I have seen in few Philosophoclers. Many speak as if reading a memorized script, or with their tongues like automatic animals disjointed from their brains. Few speak as if they are following a beautiful road inside their head that only they can see.
 
@@ -102,11 +96,15 @@ I did not lose hope. After all, Lisa could have lied in the blog post, to throw 
 
 "They are majestic creatures no doubt. But they're full of stingers which can give you a lethal clout. I prefer animals less sadistic... and a little more pacifistic."
 
-My heart fell. But if I could just explain to her luminescent jellyfish...
+My heart fell. But if I could just explain luminescent jellyfish to her...
+
+
+
+[Insert Fron's heart-to-heart?]
 
 <!--"Please don't mind Fron, he's a little obsessed. -->
 
-TODO: other reactions?
+[TODO: other reactions?]
 
 #4 Creativists arrive
 
@@ -134,9 +132,11 @@ I pointed at Lisa. "And that is Lisa who one day pretended to be, the girl who s
 
 "You're not a Rhymist," a Uni said to red-bread girl, "You're a two-timist!"
 
-(One of the Creativists spoke up, "Lukko and Lisa, is that true? This isn't what we're supposed to do!")
+(One of the Creativists spoke up, "Lukko and Lisa, is that true? This isn't what Creativists supposed to do!")
 
 "We won't join you!" another Uni yelled.
+
+[Rap battle?]
 
 I tried to compromise. "Please, we will follow you wherever you lead. Just don't include Lisa and Lukko, I do plead."
 

@@ -98,7 +98,7 @@ Un sits back in his chair and takes a deep breath to calm himself down. Nods spr
 
 We take out our pocket-sized Guides to Uniformisms. All of us---even the ones who had previously protested---read page ten[^f1] out loud. But I cannot return to that previous zen. The girl's poetry was a unique kind of song. For the first time, I'm not sure that I really belong.
 
-As we read the Uniformization, I don't process the words at all. They are dull and dreary. I feel I am going through a bleary pantomime. I can't help but imagine what will happen if every sentences were replaced by rhyme.
+As we read the Uniformization, I don't process the words at all. They are dull and dreary. I feel I am going through a bleary pantomime. I can't help but imagine what will happen if every sentence were replaced by rhyme.
 
 [^f1]: The Uniformization, which helps us return to a uniform state after we have been disturbed.
 
