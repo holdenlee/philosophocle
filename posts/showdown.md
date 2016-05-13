@@ -6,11 +6,11 @@ author: Fron
 characters: Fron, Un, Rhymist
 ---
 
-It has been more than a week since the showdown at the Scoop. The Scoop is still closed, and the Rhymist is still nowhere to be seen.
+<!-- It has been more than a week since the showdown at the Scoop. The Scoop is still closed, and the Rhymist is still nowhere to be seen.
 
-What happened? I will explain.
+What happened? I will explain. -->
 
-#1 We Entered the Scoop
+#1 We enter the Scoop
 
 At 8am last Tuesday, the Uniformists trooped into the Scoop. We each took a folding chair from the stack, unfolded it in front of the table, and then sat down.[^f1]
 
@@ -42,7 +42,7 @@ We nodded. "Well written."
 
 Finally we sat down.
 
-#2 Rhymist arrives
+#2 The Rhymist arrives
 
 Before we started drinking our tea, however, we heard a cheerful creaking of floorboards, and found that a girl in red, holding a piece of bread (rather than a cookie), had joined us. In her other hand she held a mug, on which sat a ladybug.
 
@@ -66,15 +66,15 @@ In a smooth motion, the girl took Un's cup and drank from it.
 
 Un's face turned red.
 
-"Initiate Operation Uniformization," he commanded.
-
-Thirty Uniformists pushed back their chairs and stood up. Alarmed, the girl in red took her slice of bread and Un's cup, got up, and backed away.
+He stood up, and thirty Uniformists pushed back their chairs and stood up. Alarmed, the girl in red took her slice of bread and Un's cup, got up, and backed away.
 
 We fanned out in a circle around her. Each one of us had a small U-shirt in our hands.
 
-"Please leave me in peace," she said, "I will depart to Deepsea Teas."
+"Join us or leave," Un said.
 
-#3 Heart-to-Heart
+"Let me leave in peace," she said, "I will depart to Deepsea Teas."
+
+#3 I call out to the Rhymist
 
 *Deepsea Teas*? That was the cafe with booths separated by fish tanks of deep-sea creatures.
 
@@ -82,11 +82,13 @@ Was she "jellyfish girl"?
 
 The thought washed away my morning Uniformization.
 
-I remembered Lisa, the girl I had talked to so earnestly at lunch one day, had tricked me into thinking she had been the 3am announcer for [PHSS](PHSS.html), even though her voice was harsh rather than mellifluous, and she was dismissive, rather than appreciative, of life's many mysteries. Thanks, however, to [Junali's reporting](re-PHSS.html) I had learned of her trickery from this very blog, and learned also that the radio announcer's real name is Pearl. Alas, I have no other information.
+I remembered Lisa, the girl I had talked to so earnestly at lunch one day, had tricked me into thinking she had been the 3am announcer for [PHSS](PHSS.html), even though her voice was harsh rather than mellifluous, and she was dismissive, rather than appreciative, of life's many mysteries. Thanks, however, to [Junali's reporting](re-PHSS.html) I had learned of her trickery from this very blog, and learned also that the radio announcer's real name is Pearl. 
 
-I stepped in between Un and the Rhymist and knelt down.
+Just as she reached to door, I broke the Uniformist ranks.
 
-"Pardon my question, beautiful girl, but is your name by any chance Pearl?"
+"Before you flee, beautiful girl, tell me---your name by any chance Pearl?"
+
+She stopped.
 
 "That is a beautiful name---but it is not for me to claim."
 
@@ -98,13 +100,31 @@ I did not lose hope. After all, Lisa could have lied in the blog post, to throw 
 
 My heart fell. But if I could just explain luminescent jellyfish to her...
 
+"You! Get back here!" Un called.
 
+I ignored Un.
 
-[Insert Fron's heart-to-heart?]
+"Let me tell you a memory I hold quite dear---this will explain my unexpected query. One night I turned on the radio and heard a voice extraordinary. With mellifluity and sibilence, a certain Pearl described vividly the chemistry of of deep-sea luminescence---it was music, the quintessence. But soon it faded, like all beauty, evanescent. Since then I have journeyed far and wide, but never until you have I met someone so... rarefied. Speak that voice inside your head, and I will follow in your tread!"
 
-<!--"Please don't mind Fron, he's a little obsessed. -->
+A silence followed. Then, to my surprise, several other Uniformists stepped forward.
 
-[TODO: other reactions?]
+"Tell me what to do, so I can rhyme as well as you!"
+
+"What is your secret? I too want to have your spirit!"
+
+"The other Uniformists leer and sneer, but I will protect you, no fear!"
+
+"Please don't mind Fron, he's a little obsessed. But with your presence, we are blessed!"
+
+<!--"I am tired of boring Uniformist words, tell me how to play some rhyming chords! Wait, no. How to be rhyming lord!-->
+
+<!--mysterious
+question
+explanation
+radio
+soundwaves
+airwaves
+radio-cum-alarm-clock-->
 
 #4 Creativists arrive
 
