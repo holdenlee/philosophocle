@@ -10,7 +10,7 @@ Before the snowmelt, we gathered the snowmen and snowwomen onto trolleys that sn
 
 [^f1]: The pursuits of the body are naturally lower than those of the mind. Besides, walking uphill to class every morning reminds us that we are still on the lower rungs of the ladder of knowledge, and encourages us to wake up a few minutes earlier.
 
-The snowpeople builders waited patiently. They had no desire to be like John from last year, who, eschewing trolleys, had tripped when he tried to carry his snowwoman himself. His snowwoman immediately had broken into three and each part had rolled down the hill separately.
+The snowpeople builders waited patiently. They had no desire to be like John from last year, who, eschewing trolleys, had tripped when he tried to carry his snowwoman himself. His snowwoman had immediately broken into three and each part had rolled down the hill separately.
 
 When the trolley came, the snowpeople builders hoisted their buildees onto the chilled planks. Sometimes the snowpeople's bottoms were stuck to the snow, and had to be gingerly shoveled out. Ten people assisted with pulling and pushing each trolley. Perhaps this was more than necessary, but it made sure that the trolley did not accelerate too fast.
 
@@ -47,7 +47,7 @@ Trevisia was in tears. She didn't speak, just violently brushed snow off her coa
 
 "We are sorry, madam. It won't happen again." 
 
-Trevisia snatched her scarf back and dries her eyes with it. The twenty-nine other Unis come too. 
+Trevisia snatched her scarf back and dried her eyes with it. The twenty-nine other Unis come too. 
 
 "How may we assist in rebuilding your snowmen?"
 
@@ -69,7 +69,7 @@ Rhina and Tom repaired our snowpeople, and we made it the rest of the way to the
 
 When we arrived at the Shades, the Uniformed Snowmen had already taken their positions in a semicircle in front of the courtyard. We set up the rest of the snowpeople inside the courtyard. As more snowpeople came in, we arranged them in groups facing each other, like conversational groups at [Melli's Flows](the-street.html). We gave them bottles of Iced Tea that Lisa had collected from the Electric Eel (she's somewhat of an addict). The only ones who didn't join in the merry party atmosphere were the Uniformed, looking out at the sun.
 
-Why do we do this? Ten years ago, the students had found their snowpeople disappearing from where they were built. They appeared at the Shades: a courtyard that always in shadow from the slanted winter sun. For four years this migration was continued by a mysterious altruist who was never discovered. After that, the student graduated (presumably), but the rest of the student body has carried on the tradition. Each year before the weather warms, we carry the snowmen to the Shades, where they melt together, rather than alone. During this period, at any time during the day, it is likely that at least one student will be watching the snowpeople's silent soiree. It seems to be a metaphor to life: even if we put on a veneer of merrymaking like the snowpeople do, we are all slowly melting. Or the converse: since we are all slowly melting, we might as well merrymake together.
+Why do we do this? Ten years ago, the students had found their snowpeople disappearing from where they were built. They appeared at the Shades: a courtyard always in shadow from the slanted winter sun. For four years this migration was continued by a mysterious altruist who was never discovered. After that, the student graduated (presumably), but the rest of the student body has carried on the tradition. Each year before the weather warms, we carry the snowmen to the Shades, where they melt together, rather than alone. During this period, at any time during the day, it is likely that at least one student will be watching the snowpeople's silent soiree. It seems to be a metaphor to life: even if we put on a veneer of merrymaking like the snowpeople do, we are all slowly melting. Or the converse: since we are all slowly melting, we might as well merrymake together.
 
 <hr>
 
