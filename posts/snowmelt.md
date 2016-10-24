@@ -89,6 +89,6 @@ I didn't come by the Shades until the evening. Remarkably enough, the baubles st
 
 Already the snowpeople have crooked smiles and missing eyes. The squirrels and birds feast on them.[^f3]
 
-[^f3]: I have pointed out to my colleagues that they are Feeding the Squirrels when they do this, but it seems that decorating snowpeople with edibles is a tradition that is beyond my ken to overturn.
+[^f3]: I have pointed out to my colleagues that they are [Feeding the Squirrels](fall.html) when they do this, but it seems that decorating snowpeople with edibles is a tradition that is beyond my ken to overturn.
 
 But perhaps the Uniformists will have the last laugh. Despite all our fancy decorations, the snowmen will soon start to become indistinguishable in their misery (we are all alike in death). The Uniformed will be first to go, their position being most vulnerable to the sun. The rest will soon follow.

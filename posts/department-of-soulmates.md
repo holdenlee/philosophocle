@@ -18,4 +18,4 @@ You will find there many singles, couples, as well as several multiples. We also
 
 Many students cite "not knowing where to start" or "not knowing what my goals would even be" as a turn-off from having a romantic life. In this case, we recommend that you drop by to pick up a brochure and sign up for a thirty-minute session with one of our many counselors. While those thirty minutes could be used to read thirty more pages of Feller's tome on Social Ethics, that use of thirty minutes is unlikely to result in finding the other half of yourself.[^f1] Surely you cannot anticipate what all the chapters of your thesis before you start---the same is true of relationships. We are here to help you all the way.
 
-[^f1]: Writes the Poly House, "or the other $\frac{n-1}{n}$, where $n>2$.
+[^f1]: Writes the Poly House, "or the other $\frac{n-1}{n}$, where $n>2$".
