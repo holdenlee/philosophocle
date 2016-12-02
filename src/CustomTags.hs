@@ -12,7 +12,9 @@ import           Control.Monad
 import           Data.List
 import qualified Data.Map as M
 import qualified Data.MultiMap as MM
+import qualified Data.Text as T
 import           Text.Printf
+import qualified Data.HashMap.Strict as H
 --import qualified Data.Tree as T
 import Debug.Trace
 import Utilities
@@ -21,7 +23,9 @@ import HakyllUtils
 getTagsFrom :: MonadMetadata m => String -> Identifier -> m [String]
 getTagsFrom name identifier = do
     metadata <- getMetadata identifier
-    return $ maybe [] (map trim . splitAll ",") $ M.lookup name metadata
+    return $ maybe [] (map trim . splitAll ",") $ lookupString name metadata -- metadata
+--M.lookup name metadata
+--H.lookup (T.pack name)
 
 buildTagsFrom :: MonadMetadata m => String -> Pattern -> (String -> Identifier) -> m Tags
 buildTagsFrom name = buildTagsWith (getTagsFrom name)

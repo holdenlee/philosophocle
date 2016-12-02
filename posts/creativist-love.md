@@ -96,7 +96,7 @@ Yesterday, at Melli's Flows, when Rudii found an ant on the napkin holder, inste
 
 "Are you a book-lover and someone who doesn't mind jumping to conclusions about other people in public?"
 
-"Since you helped the ant, I wonder what your thoughts are on 'feeding the squirrels'?" (Rudii was also wearing a shirt with a picture of a squirrel with an acorn.)
+"Since you helped the ant, I wonder what your thoughts are on '[feeding the squirrels](fall.html)'?" (Rudii was also wearing a shirt with a picture of a squirrel with an acorn.)
 
 "The best gift we can give the squirrels is not food, but art. In fact, I've just been chaosing on how to make an artistic playground for the squirrels..."
 
