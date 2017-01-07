@@ -10,7 +10,7 @@ Today is the first snow of the new year! I ready my camera, walkie-talkie, and s
 
 <!--more-->
 
-At Philosophocle, we pride ourselves on our broad foundational knowledge - we learn the common epistemological structure beneath all fields, so that we can, in theory, learn any new subject quickly. This does, however, not seem to include snowpeople building. I often find extremely intelligent Philosophocler students standing outside in the snow, unsure where to start. They show me their specifications for dream snowmen and snowwomen on sketch paper that is getting wetter as we speak, asking me questions such as, "How do I make a snowball $x$ inches in diameter?"
+At Philosophocle, we pride ourselves on our broad foundational knowledge - we learn the common epistemological structure beneath all fields, so that we can, in theory, learn any new subject quickly. This does, however, not seem to include snowpeople building. I often find extremely intelligent Philosophocler students standing outside in the snow, unsure where to start. They show me their specifications for dream snowmen and snowwomen on sketch paper that is getting wetter as we speak, asking me questions such as, "How do I make a snowball $x$ centimeters in diameter?"
 
 "How about putting on some gloves first?" I reply. Indeed, Snow-Angela, a shrewd businesswoman, is taking advantage of the weather to sell snow gear at 10% markup. I give the amateur snowbuilder Snow-Angela's business card[^pf], and tell them to present it at checkout, which will ensure that I get a 9% cut of the profits.
 
