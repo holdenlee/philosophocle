@@ -69,7 +69,7 @@ PROF. RANDO: Being a head priest to your very own religion carries a certain kin
 
 Decitis and Piper were in a relationship for one month, after which Decitis got bored and asked his Oracle if he should stick with Piper. Well, Piper didn't like being dumped because his Oracle told him to. Being a very resourceful girl, Piper had made a copy of Decitis's room key, which she used to sneak into his room and look at his Oracle. The string of digits looked random. In anger, she tried to rip the whole strip out, but it had a kind of stopper mechanism so that only let one digit out at a time. The whole mechanism was quite tamper-proof - she would have to take a hammer to break the whole thing. Just when she was about to go acquire a hammer, she looked back over the string of digits - and realized that she had seen them before.
 
-She recognized the digits of pi.
+They were the digits of pi.
 
 <img src="https://images-gmi-pmc.edge-generalmills.com/9af66937-486a-4a0f-ba5f-184aabb0714c.jpg" alt="Pi pie" style="width:500px;height:282px;">
 
@@ -102,7 +102,7 @@ PROF. RANDO: There is no true randomness in the world, Junali, only the semblanc
 ME: Why not something... pseudorandom?
 
 
-PROF. RANDO: Ah, mathematicians have much loftier things to think about than the problems of someone who is unable to decide which ice cream flavor to get! We have much harder problems to deal with, such as "out of the million possible conjectures I could make, which will be beautifully correct?" We simply flipped to a random page in the "Encyclopedia of Mathematical Constants" and asked a grad student to copy the numbers. We never claimed the numbers were random. In fact, we nicknamed it the Decider - it was only afterwards that it became known as the Randomizer.
+PROF. RANDO: Ah, the digits of pi *are* pseudorandom - to someone who doesn't know the digits of pi! Anyway, mathematicians have much loftier things to think about than the problems of someone who is unable to decide which ice cream flavor to get! We have much harder problems to deal with, such as "out of the million possible conjectures I could make, which will be beautifully correct?" We simply flipped to a random page in the "Encyclopedia of Mathematical Constants" and asked a grad student to copy the numbers. We never claimed the numbers were random. In fact, we nicknamed it the Decider - it was only afterwards that it became known as the Randomizer.
 
 
 ME: I'm glad you chose pi. Decitis deserved what was coming to him.
