@@ -90,7 +90,7 @@ By the time that he had figured out what was going on, he had just finished seve
 ME: Serves him right. What's the moral of the story, Professor Rando? 
 
 
-PROF. RANDO: Ah, the moral of the story is to never trust your random number generator, Junali. Because if someone is able to predict your randomizer before you are...
+PROF. RANDO: Ah, the moral of the story is to never trust your pseudorandom number generator, Junali. Because if someone is able to predict your Randomizer before you are...
 
 
 ME: But why would the Mathematics Department give Decitis the digits of pi, instead of something truly random?
@@ -108,4 +108,4 @@ PROF. RANDO: Ah, the digits of pi *are* pseudorandom - to someone who doesn't kn
 ME: I'm glad you chose pi. Decitis deserved what was coming to him.
 
 
-PROF. RANDO: Indeed. There is no blasphemy that tempts the gods - or a jealous girlfriend - so much as proclaiming yourself the head priest of your very own religion! But of course, the primary moral is that if you do use random number generators, you must choose one with strong theoretical guarantees. Otherwise, you may find your actions extremely predictable by your enemies...
+PROF. RANDO: Indeed. There is no blasphemy that tempts the gods - or a jealous girlfriend - so much as proclaiming yourself the head priest of your very own religion! But of course, the primary moral is that if you do use pseudorandom number generators, you must choose one with strong theoretical guarantees. Otherwise, you may find your actions extremely predictable by your enemies...
