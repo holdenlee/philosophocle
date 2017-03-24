@@ -41,7 +41,7 @@ But, to my surprise not a single student had stopped or even seemed to notice, e
 
 Over the next week, during the Creativist Initiation, I went through three phases.
 
-1.  **Fear**: I expected the other students to point, laugh, and say, "Trevisia, have you gone nut-so?" or "What is the meaning of that song-and-jig?" or "Trevisia, may I take you to the Center for Physical and Mental Wellbeing?" I expected the gardener to rush over and tell me to vacate my bench because I was spoiling the peaceful environs. I so dreaded Peapoudolis's beep, and even considered burying him at the bottom of my bookbag. I didn't do so, only because I feared even more being rejected by the Creativists.
+1.  **Fear**: I expected the other students to point, laugh, and say, "Trevisia, have you gone nut-so?" or "What is the meaning of that song-and-jig?" or "Trevisia, may I take you to the Center for Physical and Mental Wellbeing?" I expected the gardener to rush over and tell me to vacate my bench because I was spoiling the peaceful environs. I so dreaded Peapocky's beep, and even considered burying him at the bottom of my bookbag. I didn't do so, only because I feared even more being rejected by the Creativists.
 
 2.  **Peace**: After two days of no one telling me I had gone nut-so, my fears evaporated like dewdrops. The beeps became a law of nature. When I heard them, I didn't panic, but slowly picked up the fallen slip of paper. My mind, rather than acting like a flock of pigeons who had just landed on a live electrical wire, reacted like a flock of pigeons conducting an aerodynamic show.
 
@@ -51,7 +51,7 @@ Over the next week, during the Creativist Initiation, I went through three phase
 	
 3.  **Anger**: 	How could I not have seen the other Creativists before this week? The answer dawned: Such was the power that the Uniformists and Classicists had over Philosophocle that they had blinded me to all the uniqueness in plain view! The other students weren't ignoring us out of spite---like pre-Creativist me, they didn't even *see* us! I wanted to shout at them, holding back only because of the no talking signs in the library.
 
-	And it *wasn't* true that nobody paid us any mind. During our Creatings, Some people shot us laser-like looks of ambiguous meaning. They had U-shirts on. I wanted to scream made-up curse words at them, but checked myself, because although Lisa was truly a friend (not just a conversation partner as she claimed), I had no desire to be the same as her. I contented myself with scowling, experimenting with all the different ways I could contort my facial features.
+	And it *wasn't* true that nobody paid us any mind. During our Creatings, some people shot us laser-like looks of ambiguous meaning. They had U-shirts on. I wanted to scream made-up curse words at them, but checked myself, because although Lisa was truly a friend (not just a conversation partner as she claimed), I had no desire to be the same as her. I contented myself with scowling, experimenting with all the different ways I could contort my facial features.
 
 I'm sure that when Rudii inspected me one week later, the fire in my eyes gave me away. She nodded in approval. I was finally a Creativist.
 
