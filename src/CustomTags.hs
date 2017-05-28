@@ -38,5 +38,6 @@ makeTagsList ctx t = do
 buildOneTag :: Context String -> (String, [Identifier]) -> Compiler String
 buildOneTag ctx (s, li) = do
   comps <- loadAll ((foldl (.||.) "" $ map (fromGlob . toFilePath) li) .&&. hasNoVersion)
-  items <- applyTemplateList postItemTemplate ctx comps
+  compsSorted <- sortByField id "published" comps
+  items <- applyTemplateList postItemTemplate ctx compsSorted
   return (printf "<p><b>%s</b></p>\n<ul>\n%s\n</ul>" s items)

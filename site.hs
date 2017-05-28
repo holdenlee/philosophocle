@@ -132,9 +132,11 @@ makeTagsRules name pat capt makeTitle pageName title = do
         let sorted = sort $ zip dates posts
         let (_, ordPosts) = unzip sorted  --}
 --    dateField "date" "%F" <>
-        posts <- recentFirst =<< loadAll pattern
+        --posts <- loadAll pattern
+        --postsSorted <- sortByField id "published" posts
+        postsSorted <- recentFirst =<< loadAll pattern
         let ctx = constField "title" title <>
-                  listField "posts" postCtx (return posts) <> -- (load ordPosts) <>
+                  listField "posts" postCtx (return (postsSorted)) <> -- (load ordPosts) <>
                   basicCtx
         makeItem ""
           >>= loadAndApplyTemplate "templates/tag.html" ctx

@@ -13,6 +13,7 @@ import System.Environment
 import Control.Monad
 import Data.Tree
 import Data.List
+import qualified Data.Set as S
 import qualified Data.Map.Strict as Map
 import qualified Data.Hashable
 import Data.Either
@@ -25,14 +26,24 @@ import Prelude -- necessary for Hint.
 infixr 0 `c2`
 c2 :: (c -> d) -> (a -> b -> c) -> (a -> b -> d)
 c2 f g x y = f $ g x y
---or: c2 f g = (f .) . (g .)
---or (point-free): (.).(.)
+{- --Or:
+c2 f g = (f .) . (g .)
+c2 = (.).(.)
+-}
 
 infixr 0 `c3`
 c3 :: (d -> e) -> (a -> b -> c -> d) -> (a -> b -> c -> e)
 c3 f g x y z = f $ g x y z
---or: c3 f g = ((f .) .) . ((g .) .)
---or (point-free): (.).(.).(.)
+{- --Or:
+c3 f g = ((f .) .) . ((g .) .)
+c3 = (.).(.).(.)
+-}
+
+-- * Conditionals
+
+if' :: Bool -> a -> a -> a
+if' True  x _ = x
+if' False _ y = y
 
 doIf :: Bool -> (a -> a) -> (a -> a)
 doIf p f = (\x -> if p then f x else x)
@@ -43,29 +54,28 @@ doIfElse p f g = (\x -> if p then f x else g x)
 doIfElseCond :: (a -> Bool) -> (a -> a) -> (a -> a) -> a -> a
 doIfElseCond p f g x = if p x then f x else g x
 
-tryWithDefault::(a->Maybe b) -> b -> a -> b
-tryWithDefault f def x = 
-  case (f x) of
-    Nothing -> def
-    Just y -> y
-
-ifelselist:: [(Bool, a)] -> a -> a
+ifelselist :: [(Bool, a)] -> a -> a
 ifelselist li y = 
   case li of 
     [] -> y
     ((b,x):li2) -> if b then x else ifelselist li2 y
 
+--warning: empty list gives error
 iflist :: [(Bool, a)] -> a
 iflist li = 
   case li of 
     ((b,x):li2) -> if b then x else iflist li2
 
--- * Loops/folds
+tryWithDefault :: (a->Maybe b) -> b -> a -> b
+tryWithDefault f def x = 
+  case (f x) of
+    Nothing -> def
+    Just y -> y
+{- --Or:
+tryWithDefault = fromMaybe def (f x)
+-}
 
-tryDo :: (a -> Maybe a) -> a -> a
-tryDo f x = case f x of
-             Nothing -> x
-             Just y -> y
+-- * Loops/folds
 
 while :: (a -> Bool) -> (a -> a) -> a -> a
 while p f x = 
@@ -90,17 +100,17 @@ repeatTimes n f x =
     if n <=0 then x else repeatTimes (n-1) f (f x)
 --repeatTimes n f = (foldl (.) id $ replicate n f)
 
-foldIterate:: (a -> c -> c) -> [a] -> c -> c
+--foldl is the wrong order for function composition
+--foldl :: (a -> b -> a) -> a -> [b] -> a
+foldIterate :: (a -> c -> c) -> [a] -> c -> c
 foldIterate f as x = foldl (flip f) x as
 
-foldIterate2:: (a -> b -> c -> c) -> [a] -> [b] -> c -> c
+foldIterate2 :: (a -> b -> c -> c) -> [a] -> [b] -> c -> c
 foldIterate2 f as bs x = foldl (\y -> \(xa, xb) -> f xa xb y) x (zip as bs)
 
-{-| Deprecated (because of conflict with built-in for). Use for'.-}
-for :: [a] -> b -> (a -> b -> b) -> b
-for li x0 f = foldl (flip f) x0 li
-
-for' = for
+--different order, more like for loop
+for' :: [a] -> b -> (a -> b -> b) -> b
+for' li x0 f = foldl (flip f) x0 li
 
 -- * Function composition
 
@@ -132,6 +142,9 @@ appendFun f x = (x, f x)
 prependFun :: (a -> b) -> a -> (b,a)
 prependFun f x = (f x, x)
 
+bimap2 :: (a -> b) -> (a,a) -> (b,b)
+bimap2 f (x,y) = (f x, f y)
+
 -- * Maps and Lists
 
 isInitialSegment :: Eq a => [a] -> [a] -> Bool
@@ -157,17 +170,24 @@ replaceSublist m n li li2 =
 listUpdate :: Int -> a -> [a] -> [a]
 listUpdate n x li = replaceSublist n (n+1) [x] li
 
-filterZip:: (b->Bool) -> [a] -> [b] -> [(a,b)]
+mapFilter :: (a -> Maybe b) -> [a] -> [b]
+mapFilter f li = case li of 
+                   h:rest -> case f h of
+                               Nothing -> mapFilter f rest
+                               Just x -> x : mapFilter f rest
+                   _ -> []
+
+filterZip :: (b->Bool) -> [a] -> [b] -> [(a,b)]
 filterZip p as bs = filter (\(x,y) -> p y) (zip as bs)
 
 cofilter :: (b->Bool) -> [a] -> [b] -> ([a],[b])
 cofilter p as bs = unzip (filterZip p as bs)
 
-lookupList:: (Ord a) => [a] -> Map.Map a b -> [Maybe b]
+lookupList :: (Ord a) => [a] -> Map.Map a b -> [Maybe b]
 lookupList as mp = fmap (flip Map.lookup mp) as
 
 --unsafe
-lookupList2:: (Ord a) => [a] -> Map.Map a b -> [b]
+lookupList2 :: (Ord a) => [a] -> Map.Map a b -> [b]
 lookupList2 as mp = fmap ((Map.!) mp) as
 
 --I'm surprised this doesn't exist.
@@ -189,8 +209,12 @@ map2 = zipWith
 enumerate :: [a] -> [(Int, a)]
 enumerate li = zip [1..] li
 
+enum = enumerate
+
 zenumerate :: [a] -> [(Int, a)]
 zenumerate li = zip [0..] li
+
+zenum = zenumerate
 
 emap :: ((Int,a)->b) -> [a] -> [b]
 emap f li = map f (enumerate li)
@@ -198,19 +222,46 @@ emap f li = map f (enumerate li)
 zemap :: ((Int,a)->b) -> [a] -> [b]
 zemap f li = map f (zenumerate li)
 
+imap :: (Int -> a -> b) -> [a] -> [b]
+imap f li = zipWith f [1..] li
+
+zimap :: (Int -> a -> b) -> [a] -> [b]
+zimap f li = zipWith f [0..] li
+
 keepi :: (Int -> Bool) -> [a] -> [a]
 keepi f li = map snd (filter (f.fst) (enumerate li))
 
--- * Other
+rmdups :: Ord a => [a] -> [a]
+rmdups = rmdups' S.empty where
+    rmdups' _ [] = []
+    rmdups' a (b : c) = if S.member b a
+                        then rmdups' a c
+                        else b : rmdups' (S.insert b a) c
+
+-- * Maybes and Eithers
+
+tryDo :: (a -> Maybe a) -> a -> a
+tryDo f x = case f x of
+             Nothing -> x
+             Just y -> y
+{- --Or:
+tryDo f x = tryWithDefault f x x
+-}
 
 --unsafe
-fromLeft :: Either a b -> Maybe a
-fromLeft x = case x of
+maybeLeft :: Either a b -> Maybe a
+maybeLeft x = case x of
               Left y -> Just y
               Right _ -> Nothing
 
-fromRight :: Either a b -> b
-fromRight (Right x) = x
+maybeRight :: Either a b -> Maybe b
+maybeRight x = case x of
+              Left _ -> Nothing
+              Right y -> Just y
+
+fromLeft = fromJust . maybeLeft
+
+fromRight = fromJust . maybeRight
 
 -- * Debugging
 
@@ -220,7 +271,11 @@ debug = flip trace
 
 debugShow x = trace (show x) x
 
+debugShow' x = trace x x
+
 debugSummary f x = trace (show (f x)) x
+
+debugSummary' f x = trace (f x) x
 
 -- * Numbers
 
@@ -235,3 +290,25 @@ clamp lo hi x
     | x > hi    = hi
     | x < lo    = lo
     | otherwise = x
+
+-- * Monads
+
+untilM :: (Monad m) => (a -> m Bool) -> (a -> m a) -> a -> m a
+untilM cond f a0 = do
+  b <- cond a0
+  if b then return a0 else f a0 >>= untilM cond f
+
+untilMM :: (Monad m) =>  (a -> m (Maybe a)) -> a -> m a
+untilMM f a0 = do
+  b <- f a0
+  case b of
+    Nothing -> return a0
+    Just a -> untilMM f a
+
+untilM' :: (Monad m) => (a -> m (Bool, a)) -> (a -> m a) -> a -> m a
+untilM' cond f a0 = do
+  (b, a) <- cond a0
+  if b then return a0 else untilM' cond f a
+
+listShow :: (Show a) => [a] -> String
+listShow = intercalate "\n" . map show

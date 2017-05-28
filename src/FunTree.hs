@@ -24,10 +24,31 @@ import Search
 import MonadSupply
 
 import Data.Tree
+import Data.List
 
 --I'm using this instead of fgl because it's more lightweight
 type FunTree l b = (l, M.Map l (b,[l]))
 --make this a newtype?
+
+--ex. m b = [b]
+insertNodes' :: (MonadPlus m, Ord l) => l -> m b -> FunTree l (m b) -> FunTree l (m b)
+insertNodes' x ys (l, m) = 
+    case M.lookup x m of
+      Nothing -> (l, m & M.insert x (ys, []))
+      Just _ -> (l, m & M.adjust (_1 %~ (`mplus` ys)) x)
+
+--can also do for monoid
+insertBranch :: (MonadPlus m, Ord l) => l -> l -> FunTree l (m b) -> FunTree l (m b)
+insertBranch x x' (l,m) = 
+    case M.lookup x m of
+      Nothing -> (l, m & M.insert x (mzero, [x']))
+      Just _ -> (l, m & M.adjust (_2 %~ (`union` [x'])) x)
+
+getAllChildren :: (MonadPlus m, Ord l) => l -> FunTree l (m b) -> m b
+getAllChildren x ft@(l, m) = 
+    case M.lookup x m of
+      Nothing -> mzero
+      Just (b, li) -> b `mplus` msum (map (\x1 -> getAllChildren x1 ft) li)
 
 type StateSupply f l c = StateT f (Supply l) c
 

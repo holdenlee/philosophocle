@@ -19,3 +19,8 @@ import FunTree
 
 postItemTemplate :: Template
 postItemTemplate = readTemplate "<li><a href=\"$url$\">$title$</a> ($date$)$if(subtitle)$: <span class=\"italic\">$subtitle$</span> $endif$</li>"
+
+sortByField :: (Ord b) => (String -> b) -> String -> [Item a] -> Compiler [Item a]
+sortByField f field listItems = do
+  listItemFields <- forM listItems (flip getMetadataField field . itemIdentifier)
+  return $ map snd $ sortBy (\x y -> compare (fmap f $ fst x) (fmap f $ fst y)) $ zip listItemFields listItems

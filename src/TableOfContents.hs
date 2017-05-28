@@ -13,8 +13,8 @@ compileTOCVersion = version "toc" $
    compile $ pandocCompilerWith defaultHakyllReaderOptions
                                 defaultHakyllWriterOptions {
                                     writerTableOfContents = True
-                                  , writerTemplate = "$if(toc)$ $toc$ $endif$"
-                                  , writerStandalone = True
+                                  , writerTemplate = Just "$if(toc)$ $toc$ $endif$"
+                                  -- , writerStandalone = True
                                   }
 
 blankTOCCtx :: Context String
